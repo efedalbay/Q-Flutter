@@ -146,3 +146,202 @@ Bu yapılandırmadan sonra, Loading Screen ve Home Screen için daha önce oluş
 5. Çoklu Dil Desteği: languages klasörü ile çoklu dil desteği ekleyebilirsiniz
 6. Animasyon Desteği: motions klasörü ile animasyonları organize edebilirsiniz
 İsterseniz herhangi bir bölümü daha detaylı açıklayabilirim veya belirli bir özelliği nasıl implemente edeceğimizi gösterebilirim.
+
+# Hangi Widgetlerle Yapalim
+
+Önce her widget'ın ne işe yaradığını kısaca açıklayıp, sonra kodlarımızı yazacağım.
+Temel Widget'larımız:
+
+Row: Elemanları yatay olarak sıralar
+Column: Elemanları dikey olarak sıralar
+Container: İçeriğini özelleştirilmiş şekilde (padding, margin, renk vb.) tutar
+SizedBox: Belirli bir boşluk oluşturur
+Image.asset: Projemizdeki görselleri gösterir
+Text: Metin gösterir
+Expanded: İçeriği mevcut boş alana yayar
+Icon: İkon gösterir
+CupertinoIcons: iOS tarzı ikonlar sağlar
+
+
+#  loading_screen.dart dosyamızı oluşturalım:
+```dart
+import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
+class LoadingScreen extends StatelessWidget {
+  const LoadingScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.white,
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          // Logo ve yükleme göstergesi bölümü
+          Container(
+            width: double.infinity,
+            child: Column(
+              children: [
+                // Logo bölümü
+                Container(
+                  width: 150,
+                  height: 150,
+                  child: Image.asset(
+                    'assets/images/logo.png',
+                    fit: BoxFit.contain,
+                  ),
+                ),
+                
+                const SizedBox(height: 30),
+                
+                // Yükleme ikonu
+                const Icon(
+                  CupertinoIcons.arrow_2_circlepath,
+                  size: 40,
+                  color: Colors.blue,
+                ),
+                
+                const SizedBox(height: 20),
+                
+                // Yükleniyor yazısı
+                const Text(
+                  'Yükleniyor...',
+                  style: TextStyle(
+                    fontSize: 18,
+                    fontWeight: FontWeight.w500,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+```
+
+
+# home_screen.dart dosyamızı oluşturalım
+
+```dart
+import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
+class HomeScreen extends StatelessWidget {
+  const HomeScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      // AppBar
+      appBar: AppBar(
+        title: const Text('Ana Sayfa'),
+        actions: [
+          IconButton(
+            icon: const Icon(CupertinoIcons.bell),
+            onPressed: () {},
+          ),
+        ],
+      ),
+
+      // Drawer (Yan Menü)
+      drawer: Drawer(
+        child: Column(
+          children: [
+            // Drawer Header
+            Container(
+              height: 200,
+              color: Colors.blue,
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  const Icon(
+                    CupertinoIcons.person_circle,
+                    size: 80,
+                    color: Colors.white,
+                  ),
+                  const SizedBox(height: 10),
+                  const Text(
+                    'Kullanıcı Adı',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 18,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            // Menü öğeleri
+            ListTile(
+              leading: const Icon(CupertinoIcons.home),
+              title: const Text('Ana Sayfa'),
+              onTap: () {
+                Navigator.pop(context);
+              },
+            ),
+            ListTile(
+              leading: const Icon(CupertinoIcons.settings),
+              title: const Text('Ayarlar'),
+              onTap: () {
+                Navigator.pop(context);
+              },
+            ),
+          ],
+        ),
+      ),
+
+      // Ana içerik
+      body: Column(
+        children: [
+          Expanded(
+            child: Container(
+              padding: const EdgeInsets.all(16),
+              child: const Text('Ana Sayfa İçeriği'),
+            ),
+          ),
+        ],
+      ),
+
+      // Alt navigasyon çubuğu
+      bottomNavigationBar: BottomNavigationBar(
+        items: const [
+          BottomNavigationBarItem(
+            icon: Icon(CupertinoIcons.home),
+            label: 'Ana Sayfa',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(CupertinoIcons.search),
+            label: 'Keşfet',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(CupertinoIcons.person),
+            label: 'Profil',
+          ),
+        ],
+        onTap: (index) {
+          // Navigasyon işlemleri buraya gelecek
+        },
+      ),
+    );
+  }
+}
+```
+
+Bu kodda önemli noktalar:
+
+Sadece belirtilen widget'ları kullandık.
+Layout yapısını Column ve Row'larla oluşturduk.
+Boşluklar için SizedBox kullandık.
+CupertinoIcons ile iOS tarzı ikonlar ekledik.
+Container'ları boyutlandırma ve içerik düzenleme için kullandık.
+Expanded widget'ı ile içeriği ekrana yaydık.
+
+Uygulamamızı test etmek için aşağıdakileri yapmalısınız:
+
+Logo dosyanızı assets/images/ klasörüne ekleyin
+main.dart dosyasında routing yapılandırmasını yapın
+flutter pub get komutunu çalıştırın
+Uygulamayı başlatın
+
