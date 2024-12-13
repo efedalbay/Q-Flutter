@@ -1,14 +1,14 @@
 # Student Projects Analysis Report
 
-Generated on: 2024-12-13 14:59:51
+Generated on: 2024-12-13 15:08:26
 
 ## Summary Statistics
 
 - Total number of students in Excel: 142
-- Total number of projects: 88
-- Number of students without projects: 33
+- Total number of projects: 89
+- Number of students without projects: 32
 - Number of project students not found in Excel: 0
-- Project participation rate: 76.76%
+- Project participation rate: 77.46%
 
 ## Project Details
 
@@ -21,10 +21,10 @@ Generated on: 2024-12-13 14:59:51
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161029     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161085     | N/A            | 0       | 0             |
+| Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
+| yunusegriboz | YUNUS EĞRİBOZ | 2320161029     | https://github.com/yunusegriboz | -       | -             |
+| Atakan75     | ATAKAN ŞİMDİ  | 2320161085     | https://github.com/Atakan75     | -       | -             |
 
 #### Todo List
 
@@ -98,9 +98,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161009     | N/A            | 0       | 0             |
+| Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
+| firdevsuzun | FİRDEVS UZUN | 2320161009     | https://github.com/firdevsuzun | -       | -             |
 
 #### Todo List
 
@@ -161,11 +161,11 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161043     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161058     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161013     | N/A            | 0       | 0             |
+| Username         | Full Name         | Student Number | GitHub Profile                      | Commits | Lines of Code |
+| ---------------- | ----------------- | -------------- | ----------------------------------- | ------- | ------------- |
+| omerfaruk-yildiz | ÖMER FARUK YILDIZ | 2320161043     | https://github.com/omerfaruk-yildiz | -       | -             |
+| BatuRoyale05     | BATUHAN DEMİR     | 2320161058     | https://github.com/BatuRoyale05     | -       | -             |
+| enes986          | ENES ÖZGENÇ       | 2320161013     | https://github.com/enes986          | -       | -             |
 
 #### Todo List
 
@@ -234,9 +234,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 211216066      | N/A            | 0       | 0             |
+| Username        | Full Name        | Student Number | GitHub Profile                     | Commits | Lines of Code |
+| --------------- | ---------------- | -------------- | ---------------------------------- | ------- | ------------- |
+| batuhanyeniocak | BATUHAN YENİOCAK | 211216066      | https://github.com/batuhanyeniocak | -       | -             |
 
 #### Todo List
 
@@ -309,9 +309,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161101     | N/A            | 0       | 0             |
+| Username    | Full Name     | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------- | -------------- | ------------------------------ | ------- | ------------- |
+| nidanurkose | NİDA NUR KÖSE | 2320161101     | https://github.com/nidanurkose | -       | -             |
 
 #### Todo List
 
@@ -382,9 +382,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161107     | N/A            | 0       | 0             |
+| Username | Full Name       | Student Number | GitHub Profile             | Commits | Lines of Code |
+| -------- | --------------- | -------------- | -------------------------- | ------- | ------------- |
+| tollgaa  | TOLGA MURAT TOR | 2320161107     | https://github.com/tollgaa | -       | -             |
 
 #### Todo List
 
@@ -455,9 +455,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 221216085      | N/A            | 0       | 0             |
+| Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
+| Berkeduzgun | BERKE DÜZGÜN | 221216085      | https://github.com/Berkeduzgun | -       | -             |
 
 #### Todo List
 
@@ -530,11 +530,11 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161115     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161153     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161154     | N/A            | 0       | 0             |
+| Username      | Full Name        | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ---------------- | -------------- | -------------------------------- | ------- | ------------- |
+| Ysnkrgzz      | YASİN KARAGÖZ    | 2320161115     | https://github.com/Ysnkrgzz      | -       | -             |
+| cenkaydinn    | CENK AYDIN       | 2320161153     | https://github.com/cenkaydinn    | -       | -             |
+| yusuforhan000 | YUSUF TAHA ORHAN | 2320161154     | https://github.com/yusuforhan000 | -       | -             |
 
 #### Todo List
 
@@ -554,9 +554,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161078     | N/A            | 0       | 0             |
+| Username        | Full Name | Student Number | GitHub Profile                     | Commits | Lines of Code |
+| --------------- | --------- | -------------- | ---------------------------------- | ------- | ------------- |
+| ereninpenceresi | EREN EKER | 2320161078     | https://github.com/ereninpenceresi | -       | -             |
 
 #### Todo List
 
@@ -627,9 +627,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 222016722      | N/A            | 0       | 0             |
+| Username   | Full Name    | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ------------ | -------------- | ----------------------------- | ------- | ------------- |
+| efecangenc | EFE CAN GENÇ | 222016722      | https://github.com/efecangenc | -       | -             |
 
 #### Todo List
 
@@ -649,9 +649,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161082     | N/A            | 0       | 0             |
+| Username      | Full Name    | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ------------ | -------------- | -------------------------------- | ------- | ------------- |
+| ferhatbolat19 | FERHAT BOLAT | 2320161082     | https://github.com/ferhatbolat19 | -       | -             |
 
 #### Todo List
 
@@ -700,9 +700,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161127     | N/A            | 0       | 0             |
+| Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
+| furkanturgut | FURKAN TURĞUT | 2320161127     | https://github.com/furkanturgut | -       | -             |
 
 #### Todo List
 
@@ -774,9 +774,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161022     | N/A            | 0       | 0             |
+| Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
+| dilaradertli | DİLARA DERTLİ | 2320161022     | https://github.com/dilaradertli | -       | -             |
 
 #### Todo List
 
@@ -847,9 +847,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161015     | N/A            | 0       | 0             |
+| Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
+| rabiadundar | RABİA DÜNDAR | 2320161015     | https://github.com/rabiadundar | -       | -             |
 
 #### Todo List
 
@@ -869,9 +869,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 221216069      | N/A            | 0       | 0             |
+| Username | Full Name      | Student Number | GitHub Profile            | Commits | Lines of Code |
+| -------- | -------------- | -------------- | ------------------------- | ------- | ------------- |
+| Emmir5   | EMİR EFE KILIÇ | 221216069      | https://github.com/Emmir5 | -       | -             |
 
 #### Todo List
 
@@ -891,11 +891,11 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161118     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161132     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161109     | N/A            | 0       | 0             |
+| Username     | Full Name           | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------------- | -------------- | ------------------------------- | ------- | ------------- |
+| hakanyargici | YUSUF HAKAN YARGICI | 2320161118     | https://github.com/hakanyargici | -       | -             |
+| Ramiko2      | RABİYA TANBAŞ       | 2320161132     | https://github.com/Ramiko2      | -       | -             |
+| R3ceps       | RECEP ŞAHİN         | 2320161109     | https://github.com/R3ceps       | -       | -             |
 
 #### Todo List
 
@@ -951,11 +951,11 @@ Files: WanderWise.png, bali.jpg, paris.jpg, sliderimage1.jpg, sliderimage2.jpg, 
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161024     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161038     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161077     | N/A            | 0       | 0             |
+| Username    | Full Name             | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | --------------------- | -------------- | ------------------------------ | ------- | ------------- |
+| MrTann      | EREN TAN              | 2320161024     | https://github.com/MrTann      | -       | -             |
+| mrserin20   | MAHMUT SERİN          | 2320161038     | https://github.com/mrserin20   | -       | -             |
+| eminkiroglu | MUHAMMED EMİN KIROĞLU | 2320161077     | https://github.com/eminkiroglu | -       | -             |
 
 #### Todo List
 
@@ -1024,9 +1024,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161100     | N/A            | 0       | 0             |
+| Username     | Full Name       | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | --------------- | -------------- | ------------------------------- | ------- | ------------- |
+| alperbyrktrr | ALPER BAYRAKTAR | 2320161100     | https://github.com/alperbyrktrr | -       | -             |
 
 #### Todo List
 
@@ -1095,9 +1095,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161031     | N/A            | 0       | 0             |
+| Username         | Full Name         | Student Number | GitHub Profile                      | Commits | Lines of Code |
+| ---------------- | ----------------- | -------------- | ----------------------------------- | ------- | ------------- |
+| zehranurkaraogul | ZEHRANUR KARAOĞUL | 2320161031     | https://github.com/zehranurkaraogul | -       | -             |
 
 #### Todo List
 
@@ -1168,9 +1168,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161090     | N/A            | 0       | 0             |
+| Username    | Full Name  | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ---------- | -------------- | ------------------------------ | ------- | ------------- |
+| umutbaris00 | UMUT BARIŞ | 2320161090     | https://github.com/umutbaris00 | -       | -             |
 
 #### Todo List
 
@@ -1244,9 +1244,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161035     | N/A            | 0       | 0             |
+| Username     | Full Name    | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------ | -------------- | ------------------------------- | ------- | ------------- |
+| fatmaakaplan | FATMA KAPLAN | 2320161035     | https://github.com/fatmaakaplan | -       | -             |
 
 #### Todo List
 
@@ -1320,9 +1320,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161051     | N/A            | 0       | 0             |
+| Username   | Full Name  | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ---------- | -------------- | ----------------------------- | ------- | ------------- |
+| onuraltnxd | ONUR ALTUN | 2320161051     | https://github.com/onuraltnxd | -       | -             |
 
 #### Todo List
 
@@ -1375,9 +1375,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161087     | N/A            | 0       | 0             |
+| Username | Full Name   | Student Number | GitHub Profile              | Commits | Lines of Code |
+| -------- | ----------- | -------------- | --------------------------- | ------- | ------------- |
+| esralkya | ESRA ALKAYA | 2320161087     | https://github.com/esralkya | -       | -             |
 
 #### Todo List
 
@@ -1448,9 +1448,9 @@ Files: main.dart, tarif_detay.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161057     | N/A            | 0       | 0             |
+| Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
+| KeremAgiroz | KEREM AĞIRÖZ | 2320161057     | https://github.com/KeremAgiroz | -       | -             |
 
 #### Todo List
 
@@ -1522,9 +1522,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161081     | N/A            | 0       | 0             |
+| Username      | Full Name           | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ------------------- | -------------- | -------------------------------- | ------- | ------------- |
+| zeynepsudeakb | ZEYNEP SUDE AKBULUT | 2320161081     | https://github.com/zeynepsudeakb | -       | -             |
 
 #### Todo List
 
@@ -1544,9 +1544,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161151     | N/A            | 0       | 0             |
+| Username    | Full Name       | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | --------------- | -------------- | ------------------------------ | ------- | ------------- |
+| aliriza1926 | ALİ RIZA ZENGİN | 2320161151     | https://github.com/aliriza1926 | -       | -             |
 
 #### Todo List
 
@@ -1610,9 +1610,9 @@ Files: temp.txt
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161046     | N/A            | 0       | 0             |
+| Username | Full Name    | Student Number | GitHub Profile              | Commits | Lines of Code |
+| -------- | ------------ | -------------- | --------------------------- | ------- | ------------- |
+| Matttiuz | MUSTAFA KAYA | 2320161046     | https://github.com/Matttiuz | -       | -             |
 
 #### Todo List
 
@@ -1687,9 +1687,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161108     | N/A            | 0       | 0             |
+| Username      | Full Name      | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | -------------- | -------------- | -------------------------------- | ------- | ------------- |
+| anilpomakoglu | ANIL POMAKOĞLU | 2320161108     | https://github.com/anilpomakoglu | -       | -             |
 
 #### Todo List
 
@@ -1709,9 +1709,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161095     | N/A            | 0       | 0             |
+| Username    | Full Name          | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------------ | -------------- | ------------------------------ | ------- | ------------- |
+| Baransaltan | AYDIN BARAN SALTAN | 2320161095     | https://github.com/Baransaltan | -       | -             |
 
 #### Todo List
 
@@ -1781,10 +1781,10 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161083     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161148     | N/A            | 0       | 0             |
+| Username   | Full Name             | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | --------------------- | -------------- | ----------------------------- | ------- | ------------- |
+| EmreEviren | EMRE EVİREN           | 2320161083     | https://github.com/EmreEviren | -       | -             |
+| donmez44   | ABDULLAH SAMED DÖNMEZ | 2320161148     | https://github.com/donmez44   | -       | -             |
 
 #### Todo List
 
@@ -1855,9 +1855,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161026     | N/A            | 0       | 0             |
+| Username       | Full Name       | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | --------------- | -------------- | --------------------------------- | ------- | ------------- |
+| zeynepalptekin | ZEYNEP ALPTEKİN | 2320161026     | https://github.com/zeynepalptekin | -       | -             |
 
 #### Todo List
 
@@ -1928,9 +1928,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161075     | N/A            | 0       | 0             |
+| Username        | Full Name            | Student Number | GitHub Profile                     | Commits | Lines of Code |
+| --------------- | -------------------- | -------------- | ---------------------------------- | ------- | ------------- |
+| baransoylemez49 | YUSUF BARAN SÖYLEMEZ | 2320161075     | https://github.com/baransoylemez49 | -       | -             |
 
 #### Todo List
 
@@ -1950,9 +1950,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161155     | N/A            | 0       | 0             |
+| Username  | Full Name       | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | --------------- | -------------- | ---------------------------- | ------- | ------------- |
+| endikol88 | AHMET EMRE KARA | 2320161155     | https://github.com/endikol88 | -       | -             |
 
 #### Todo List
 
@@ -2022,9 +2022,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161023     | N/A            | 0       | 0             |
+| Username         | Full Name                  | Student Number | GitHub Profile                      | Commits | Lines of Code |
+| ---------------- | -------------------------- | -------------- | ----------------------------------- | ------- | ------------- |
+| DogukanTellioglu | MUHAMMET DOĞUKAN TELLİOĞLU | 2320161023     | https://github.com/DogukanTellioglu | -       | -             |
 
 #### Todo List
 
@@ -2095,9 +2095,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161159     | N/A            | 0       | 0             |
+| Username | Full Name  | Student Number | GitHub Profile             | Commits | Lines of Code |
+| -------- | ---------- | -------------- | -------------------------- | ------- | ------------- |
+| Emir811  | EMİRCAN ER | 2320161159     | https://github.com/Emir811 | -       | -             |
 
 #### Todo List
 
@@ -2168,9 +2168,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161008     | N/A            | 0       | 0             |
+| Username       | Full Name     | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | ------------- | -------------- | --------------------------------- | ------- | ------------- |
+| acimasizburger | ALPEREN TURAN | 2320161008     | https://github.com/acimasizburger | -       | -             |
 
 #### Todo List
 
@@ -2241,9 +2241,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320165060     | N/A            | 0       | 0             |
+| Username  | Full Name          | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ------------------ | -------------- | ---------------------------- | ------- | ------------- |
+| NsAshrafi | NAFISEH ASHRAFISIS | 2320165060     | https://github.com/NsAshrafi | -       | -             |
 
 #### Todo List
 
@@ -2296,9 +2296,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161025     | N/A            | 0       | 0             |
+| Username  | Full Name     | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ------------- | -------------- | ---------------------------- | ------- | ------------- |
+| BulutKrks | BULUT KARAKUŞ | 2320161025     | https://github.com/BulutKrks | -       | -             |
 
 #### Todo List
 
@@ -2318,10 +2318,10 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161079     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161010     | N/A            | 0       | 0             |
+| Username | Full Name   | Student Number | GitHub Profile             | Commits | Lines of Code |
+| -------- | ----------- | -------------- | -------------------------- | ------- | ------------- |
+| Demir-7  | FATİH DEMİR | 2320161079     | https://github.com/Demir-7 | -       | -             |
+| AnilD-8  | ANIL DURSUN | 2320161010     | https://github.com/AnilD-8 | -       | -             |
 
 #### Todo List
 
@@ -2392,9 +2392,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161011     | N/A            | 0       | 0             |
+| Username     | Full Name    | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------ | -------------- | ------------------------------- | ------- | ------------- |
+| whaticecelik | HATİCE ÇELİK | 2320161011     | https://github.com/whaticecelik | -       | -             |
 
 #### Todo List
 
@@ -2467,9 +2467,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 221216043      | N/A            | 0       | 0             |
+| Username | Full Name | Student Number | GitHub Profile              | Commits | Lines of Code |
+| -------- | --------- | -------------- | --------------------------- | ------- | ------------- |
+| tariklus | TARIK LUŞ | 221216043      | https://github.com/tariklus | -       | -             |
 
 #### Todo List
 
@@ -2540,9 +2540,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161071     | N/A            | 0       | 0             |
+| Username      | Full Name    | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ------------ | -------------- | -------------------------------- | ------- | ------------- |
+| EnginOzturk-7 | ENGİN ÖZTÜRK | 2320161071     | https://github.com/EnginOzturk-7 | -       | -             |
 
 #### Todo List
 
@@ -2615,9 +2615,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161006     | N/A            | 0       | 0             |
+| Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
+| sumeyyekazan | SÜMEYYE KAZAN | 2320161006     | https://github.com/sumeyyekazan | -       | -             |
 
 #### Todo List
 
@@ -2637,9 +2637,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161037     | N/A            | 0       | 0             |
+| Username    | Full Name   | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ----------- | -------------- | ------------------------------ | ------- | ------------- |
+| erenturhan1 | EREN TURHAN | 2320161037     | https://github.com/erenturhan1 | -       | -             |
 
 #### Todo List
 
@@ -2659,11 +2659,11 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161050     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161080     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161067     | N/A            | 0       | 0             |
+| Username   | Full Name        | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ---------------- | -------------- | ----------------------------- | ------- | ------------- |
+| alibrkklyc | ALİ BERK KALAYCI | 2320161050     | https://github.com/alibrkklyc | -       | -             |
+| ilkerdrtsk | İLKER DÖRTIŞIK   | 2320161080     | https://github.com/ilkerdrtsk | -       | -             |
+| ardatunayy | ARDA TUNAY       | 2320161067     | https://github.com/ardatunayy | -       | -             |
 
 #### Todo List
 
@@ -2736,9 +2736,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161106     | N/A            | 0       | 0             |
+| Username   | Full Name    | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ------------ | -------------- | ----------------------------- | ------- | ------------- |
+| ensozdemir | ENES ÖZDEMİR | 2320161106     | https://github.com/ensozdemir | -       | -             |
 
 #### Todo List
 
@@ -2809,9 +2809,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161084     | N/A            | 0       | 0             |
+| Username        | Full Name         | Student Number | GitHub Profile                     | Commits | Lines of Code |
+| --------------- | ----------------- | -------------- | ---------------------------------- | ------- | ------------- |
+| omermelihbayram | ÖMER MELİH BAYRAM | 2320161084     | https://github.com/omermelihbayram | -       | -             |
 
 #### Todo List
 
@@ -2831,9 +2831,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161041     | N/A            | 0       | 0             |
+| Username  | Full Name    | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ------------ | -------------- | ---------------------------- | ------- | ------------- |
+| 0zanozdmr | OZAN ÖZDEMİR | 2320161041     | https://github.com/0zanozdmr | -       | -             |
 
 #### Todo List
 
@@ -2906,9 +2906,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161114     | N/A            | 0       | 0             |
+| Username    | Full Name      | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | -------------- | -------------- | ------------------------------ | ------- | ------------- |
+| Tarikusta52 | TARIK USTAOĞLU | 2320161114     | https://github.com/Tarikusta52 | -       | -             |
 
 #### Todo List
 
@@ -2928,9 +2928,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161149     | N/A            | 0       | 0             |
+| Username  | Full Name                | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ------------------------ | -------------- | ---------------------------- | ------- | ------------- |
+| BrieflyMR | MUHAMMED MİRAÇ TURATUTUK | 2320161149     | https://github.com/BrieflyMR | -       | -             |
 
 #### Todo List
 
@@ -3003,11 +3003,11 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161098     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161144     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161147     | N/A            | 0       | 0             |
+| Username      | Full Name           | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ------------------- | -------------- | -------------------------------- | ------- | ------------- |
+| genghisatlast | YUSUF ARIKOĞLU      | 2320161098     | https://github.com/genghisatlast | -       | -             |
+| codewoman34   | EDANUR TABU         | 2320161144     | https://github.com/codewoman34   | -       | -             |
+| mertcelikt    | MUHAMMET MERT ÇELİK | 2320161147     | https://github.com/mertcelikt    | -       | -             |
 
 #### Todo List
 
@@ -3074,9 +3074,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161068     | N/A            | 0       | 0             |
+| Username       | Full Name     | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | ------------- | -------------- | --------------------------------- | ------- | ------------- |
+| Gorkemarslan57 | GÖRKEM ARSLAN | 2320161068     | https://github.com/Gorkemarslan57 | -       | -             |
 
 #### Todo List
 
@@ -3148,9 +3148,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161089     | N/A            | 0       | 0             |
+| Username      | Full Name      | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | -------------- | -------------- | -------------------------------- | ------- | ------------- |
+| onurguzelordu | ONUR GÜZELORDU | 2320161089     | https://github.com/onurguzelordu | -       | -             |
 
 #### Todo List
 
@@ -3219,9 +3219,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161121     | N/A            | 0       | 0             |
+| Username      | Full Name     | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ------------- | -------------- | -------------------------------- | ------- | ------------- |
+| berrinyiilmaz | BERRİN YILMAZ | 2320161121     | https://github.com/berrinyiilmaz | -       | -             |
 
 #### Todo List
 
@@ -3292,9 +3292,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161097     | N/A            | 0       | 0             |
+| Username  | Full Name    | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ------------ | -------------- | ---------------------------- | ------- | ------------- |
+| ilhandzgn | İLHAN DÜZGÜN | 2320161097     | https://github.com/ilhandzgn | -       | -             |
 
 #### Todo List
 
@@ -3365,9 +3365,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161052     | N/A            | 0       | 0             |
+| Username      | Full Name      | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | -------------- | -------------- | -------------------------------- | ------- | ------------- |
+| EnesSinanoglu | ENES SİNANOĞLU | 2320161052     | https://github.com/EnesSinanoglu | -       | -             |
 
 #### Todo List
 
@@ -3387,9 +3387,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161040     | N/A            | 0       | 0             |
+| Username   | Full Name            | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | -------------------- | -------------- | ----------------------------- | ------- | ------------- |
+| Topraktino | TOPRAK EGEMEN COŞKUN | 2320161040     | https://github.com/Topraktino | -       | -             |
 
 #### Todo List
 
@@ -3462,9 +3462,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161066     | N/A            | 0       | 0             |
+| Username   | Full Name   | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ----------- | -------------- | ----------------------------- | ------- | ------------- |
+| betulalkan | BETÜL ALKAN | 2320161066     | https://github.com/betulalkan | -       | -             |
 
 #### Todo List
 
@@ -3484,9 +3484,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161061     | N/A            | 0       | 0             |
+| Username    | Full Name   | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ----------- | -------------- | ------------------------------ | ------- | ------------- |
+| mervecetiin | MERVE ÇETİN | 2320161061     | https://github.com/mervecetiin | -       | -             |
 
 #### Todo List
 
@@ -3557,9 +3557,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161042     | N/A            | 0       | 0             |
+| Username       | Full Name             | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | --------------------- | -------------- | --------------------------------- | ------- | ------------- |
+| nilaykarabudak | NİLAY ZEHRA KARABUDAK | 2320161042     | https://github.com/nilaykarabudak | -       | -             |
 
 #### Todo List
 
@@ -3630,11 +3630,11 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161014     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161112     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161105     | N/A            | 0       | 0             |
+| Username         | Full Name         | Student Number | GitHub Profile                      | Commits | Lines of Code |
+| ---------------- | ----------------- | -------------- | ----------------------------------- | ------- | ------------- |
+| alperenkarademir | ALPEREN KARADEMİR | 2320161014     | https://github.com/alperenkarademir | -       | -             |
+| Emirhanbgdyc     | EMİRHAN BUĞDAYCI  | 2320161112     | https://github.com/Emirhanbgdyc     | -       | -             |
+| Emirbulutt       | EMİR BULUT        | 2320161105     | https://github.com/Emirbulutt       | -       | -             |
 
 #### Todo List
 
@@ -3707,9 +3707,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161143     | N/A            | 0       | 0             |
+| Username      | Full Name     | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ------------- | -------------- | -------------------------------- | ------- | ------------- |
+| Aysegul-Bulut | AYŞEGÜL BULUT | 2320161143     | https://github.com/Aysegul-Bulut | -       | -             |
 
 #### Todo List
 
@@ -3729,9 +3729,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161162     | N/A            | 0       | 0             |
+| Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
+| TarikKaravar | TARIK KARAVAR | 2320161162     | https://github.com/TarikKaravar | -       | -             |
 
 #### Todo List
 
@@ -3796,9 +3796,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161065     | N/A            | 0       | 0             |
+| Username   | Full Name       | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | --------------- | -------------- | ----------------------------- | ------- | ------------- |
+| serhatdgrl | SERHAT DOĞRUYOL | 2320161065     | https://github.com/serhatdgrl | -       | -             |
 
 #### Todo List
 
@@ -3818,9 +3818,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161110     | N/A            | 0       | 0             |
+| Username       | Full Name      | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | -------------- | -------------- | --------------------------------- | ------- | ------------- |
+| KaanKaracayirr | KAAN KARAÇAYIR | 2320161110     | https://github.com/KaanKaracayirr | -       | -             |
 
 #### Todo List
 
@@ -3891,10 +3891,10 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161122     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161135     | N/A            | 0       | 0             |
+| Username     | Full Name       | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | --------------- | -------------- | ------------------------------- | ------- | ------------- |
+| bgmyurttabir | BEGÜM YURTTABİR | 2320161122     | https://github.com/bgmyurttabir | -       | -             |
+| Erenbydar    | EREN BAYDAR     | 2320161135     | https://github.com/Erenbydar    | -       | -             |
 
 #### Todo List
 
@@ -3961,9 +3961,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161088     | N/A            | 0       | 0             |
+| Username       | Full Name       | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | --------------- | -------------- | --------------------------------- | ------- | ------------- |
+| bugrakasapoglu | BUĞRA KASAPOĞLU | 2320161088     | https://github.com/bugrakasapoglu | -       | -             |
 
 #### Todo List
 
@@ -4029,9 +4029,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 211216003      | N/A            | 0       | 0             |
+| Username           | Full Name            | Student Number | GitHub Profile                        | Commits | Lines of Code |
+| ------------------ | -------------------- | -------------- | ------------------------------------- | ------- | ------------- |
+| MehmetSukruIldemir | MEHMET ŞÜKRÜ İLDEMİR | 211216003      | https://github.com/MehmetSukruIldemir | -       | -             |
 
 #### Todo List
 
@@ -4100,9 +4100,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161026     | N/A            | 0       | 0             |
+| Username       | Full Name       | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | --------------- | -------------- | --------------------------------- | ------- | ------------- |
+| zeynepalptekin | ZEYNEP ALPTEKİN | 2320161026     | https://github.com/zeynepalptekin | -       | -             |
 
 #### Todo List
 
@@ -4173,9 +4173,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161033     | N/A            | 0       | 0             |
+| Username   | Full Name        | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ---------------- | -------------- | ----------------------------- | ------- | ------------- |
+| OguzhanCin | OĞUZHAN BERK CİN | 2320161033     | https://github.com/OguzhanCin | -       | -             |
 
 #### Todo List
 
@@ -4244,9 +4244,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161091     | N/A            | 0       | 0             |
+| Username       | Full Name     | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | ------------- | -------------- | --------------------------------- | ------- | ------------- |
+| Dogukansahin24 | DOĞUKAN ŞAHİN | 2320161091     | https://github.com/Dogukansahin24 | -       | -             |
 
 #### Todo List
 
@@ -4266,9 +4266,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161084     | N/A            | 0       | 0             |
+| Username        | Full Name         | Student Number | GitHub Profile                     | Commits | Lines of Code |
+| --------------- | ----------------- | -------------- | ---------------------------------- | ------- | ------------- |
+| omermelihbayram | ÖMER MELİH BAYRAM | 2320161084     | https://github.com/omermelihbayram | -       | -             |
 
 #### Todo List
 
@@ -4288,9 +4288,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161086     | N/A            | 0       | 0             |
+| Username  | Full Name  | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ---------- | -------------- | ---------------------------- | ------- | ------------- |
+| dumanemir | EMİR DUMAN | 2320161086     | https://github.com/dumanemir | -       | -             |
 
 #### Todo List
 
@@ -4310,9 +4310,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161139     | N/A            | 0       | 0             |
+| Username       | Full Name      | Student Number | GitHub Profile                    | Commits | Lines of Code |
+| -------------- | -------------- | -------------- | --------------------------------- | ------- | ------------- |
+| abdulllahseker | ABDULLAH ŞEKER | 2320161139     | https://github.com/abdulllahseker | -       | -             |
 
 #### Todo List
 
@@ -4383,9 +4383,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161111     | N/A            | 0       | 0             |
+| Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
+| Emirhanbaser | EMİRHAN BAŞER | 2320161111     | https://github.com/Emirhanbaser | -       | -             |
 
 #### Todo List
 
@@ -4450,9 +4450,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161074     | N/A            | 0       | 0             |
+| Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
+| Melikeersoy | MELİKE ERSOY | 2320161074     | https://github.com/Melikeersoy | -       | -             |
 
 #### Todo List
 
@@ -4519,9 +4519,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161060     | N/A            | 0       | 0             |
+| Username | Full Name   | Student Number | GitHub Profile             | Commits | Lines of Code |
+| -------- | ----------- | -------------- | -------------------------- | ------- | ------------- |
+| EfeKtli  | EFE KIRATLI | 2320161060     | https://github.com/EfeKtli | -       | -             |
 
 #### Todo List
 
@@ -4541,9 +4541,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161016     | N/A            | 0       | 0             |
+| Username  | Full Name    | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ------------ | -------------- | ---------------------------- | ------- | ------------- |
+| Mertelyev | MERT KURUALİ | 2320161016     | https://github.com/Mertelyev | -       | -             |
 
 #### Todo List
 
@@ -4614,11 +4614,11 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161119     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161113     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161124     | N/A            | 0       | 0             |
+| Username    | Full Name          | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ------------------ | -------------- | ------------------------------ | ------- | ------------- |
+| aksitarda   | HÜSEYİN ARDA AKŞİT | 2320161119     | https://github.com/aksitarda   | -       | -             |
+| efecakmakci | EFE ÇAKMAKCI       | 2320161113     | https://github.com/efecakmakci | -       | -             |
+| ernkya      | EREN KAYA          | 2320161124     | https://github.com/ernkya      | -       | -             |
 
 #### Todo List
 
@@ -4667,11 +4667,11 @@ Files: placeholder.png
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161116     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161153     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161093     | N/A            | 0       | 0             |
+| Username   | Full Name  | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ---------- | -------------- | ----------------------------- | ------- | ------------- |
+| enesbasat0 | ENES BAŞAT | 2320161116     | https://github.com/enesbasat0 | -       | -             |
+| cenkaydinn | CENK AYDIN | 2320161153     | https://github.com/cenkaydinn | -       | -             |
+| oguzcavuss | OĞUZ ÇAVUŞ | 2320161093     | https://github.com/oguzcavuss | -       | -             |
 
 #### Todo List
 
@@ -4715,9 +4715,9 @@ Files: friends.dart, main.dart, profile.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161138     | N/A            | 0       | 0             |
+| Username  | Full Name         | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | ----------------- | -------------- | ---------------------------- | ------- | ------------- |
+| emreoyken | EMRE TUĞRUL ÖYKEN | 2320161138     | https://github.com/emreoyken | -       | -             |
 
 #### Todo List
 
@@ -4788,9 +4788,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161104     | N/A            | 0       | 0             |
+| Username   | Full Name   | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ----------- | -------------- | ----------------------------- | ------- | ------------- |
+| ErayOzozen | ERAY ÖZÖZEN | 2320161104     | https://github.com/ErayOzozen | -       | -             |
 
 #### Todo List
 
@@ -4861,9 +4861,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161034     | N/A            | 0       | 0             |
+| Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
+| ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
+| SeymaSakoglu | ŞEYMA SAKOĞLU | 2320161034     | https://github.com/SeymaSakoglu | -       | -             |
 
 #### Todo List
 
@@ -4933,10 +4933,10 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161039     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161027     | N/A            | 0       | 0             |
+| Username            | Full Name     | Student Number | GitHub Profile                         | Commits | Lines of Code |
+| ------------------- | ------------- | -------------- | -------------------------------------- | ------- | ------------- |
+| efegucuyeter        | EFE GÜCÜYETER | 2320161039     | https://github.com/efegucuyeter        | -       | -             |
+| aybarsakbabaspecial | AYBARS AKBABA | 2320161027     | https://github.com/aybarsakbabaspecial | -       | -             |
 
 #### Todo List
 
@@ -4990,10 +4990,10 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161045     | N/A            | 0       | 0             |
-| N/A      | N/A       | 2320161055     | N/A            | 0       | 0             |
+| Username    | Full Name               | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ----------------------- | -------------- | ------------------------------ | ------- | ------------- |
+| TalhaGuer   | MUHAMMED TALHA GÜLERYÜZ | 2320161045     | https://github.com/TalhaGuer   | -       | -             |
+| omercirak28 | ÖMER ÇIRAK              | 2320161055     | https://github.com/omercirak28 | -       | -             |
 
 #### Todo List
 
@@ -5064,9 +5064,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161117     | N/A            | 0       | 0             |
+| Username    | Full Name   | Student Number | GitHub Profile                 | Commits | Lines of Code |
+| ----------- | ----------- | -------------- | ------------------------------ | ------- | ------------- |
+| AlperenlCan | ALPEREN CAN | 2320161117     | https://github.com/AlperenlCan | -       | -             |
 
 #### Todo List
 
@@ -5135,9 +5135,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161103     | N/A            | 0       | 0             |
+| Username   | Full Name         | Student Number | GitHub Profile                | Commits | Lines of Code |
+| ---------- | ----------------- | -------------- | ----------------------------- | ------- | ------------- |
+| Lenuxxlacc | ERAY REMZİ YILDIZ | 2320161103     | https://github.com/Lenuxxlacc | -       | -             |
 
 #### Todo List
 
@@ -5206,9 +5206,9 @@ Files: main.dart
 
 #### Contributors
 
-| Username | Full Name | Student Number | GitHub Profile | Commits | Lines of Code |
-| -------- | --------- | -------------- | -------------- | ------- | ------------- |
-| N/A      | N/A       | 2320161128     | N/A            | 0       | 0             |
+| Username | Full Name      | Student Number | GitHub Profile            | Commits | Lines of Code |
+| -------- | -------------- | -------------- | ------------------------- | ------- | ------------- |
+| Mamio0   | MUHAMMET ÖZMEN | 2320161128     | https://github.com/Mamio0 | -       | -             |
 
 #### Todo List
 
@@ -5270,6 +5270,74 @@ Files: main.dart
 
 ---
 
+### Sigarayı Bırakıyorum
+
+- Team: Yalnız Kurt
+- Leader: Erva Efe DALBAY (2320161003)
+- Members: 1 students
+- GitHub: https://github.com/efedalbay/nosmoke
+
+#### Contributors
+
+| Username  | Full Name       | Student Number | GitHub Profile               | Commits | Lines of Code |
+| --------- | --------------- | -------------- | ---------------------------- | ------- | ------------- |
+| efedalbay | ERVA EFE DALBAY | 2320161003     | https://github.com/efedalbay | -       | -             |
+
+#### Todo List
+
+| Task | Description | Assigned To | Deadline | Status |
+| ---- | ----------- | ----------- | -------- | ------ |
+
+#### Flutter Project Analysis
+
+- **Package Name:** flutter_app
+- **Version:** 0.1.0
+
+**Dependencies:**
+
+```yaml
+flutter: {'sdk': 'flutter'}
+cupertino_icons: ^1.0.8
+flutter_secure_storage: ^9.2.2
+go_router: ^14.6.1
+shared_preferences: ^2.3.3
+dotlottie_loader: ^0.0.4
+lottie: ^3.1.3
+path_provider: ^2.0.0
+```
+
+**Dev Dependencies:**
+
+```yaml
+flutter_test: {'sdk': 'flutter'}
+flutter_lints: ^4.0.0
+```
+
+**Lib Structure:**
+
+```
+Files: main.dart
+├── core
+  Files: themes.dart
+├── routes
+  Files: app_router.dart
+├── screens
+  Files: home_screen.dart, loading_screen.dart
+```
+
+**Assets Structure:**
+
+```
+├── fonts
+  Files: Roboto-Bold.ttf, Roboto-Italic.ttf, Roboto-Regular.ttf
+├── images
+  Files: logo.jpg
+├── motions
+  Files: loading.lottie
+```
+
+---
+
 ## Students Without Project Assignments
 
 | Student No | Name                    | Program                       | Class |
@@ -5283,7 +5351,6 @@ Files: main.dart
 | 222016706  | RECEP ÜNALAN            | Bilgisayar Programcılığı (İÖ) | 2     |
 | 222016749  | EMRE KUŞ                | Bilgisayar Programcılığı (İÖ) | 2     |
 | 222016766  | MÜMİN KAYACI            | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161003 | ERVA EFE DALBAY         | Bilgisayar Programcılığı      | 2     |
 | 2320161005 | BATUHAN EMİN AKTAŞ      | Bilgisayar Programcılığı      | 2     |
 | 2320161007 | MUSTAFA TALHA ÇOLAKOĞLU | Bilgisayar Programcılığı      | 2     |
 | 2320161017 | MUSTAFA CANBAY          | Bilgisayar Programcılığı (İÖ) | 2     |
