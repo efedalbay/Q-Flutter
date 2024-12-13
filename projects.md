@@ -1,14 +1,14 @@
 # Student Projects Analysis Report
 
-Generated on: 2024-12-13 13:56:55
+Generated on: 2024-12-13 14:04:57
 
 ## Summary Statistics
 
 - Total number of students in Excel: 142
-- Total number of projects: 87
-- Number of students without projects: 37
+- Total number of projects: 91
+- Number of students without projects: 31
 - Number of project students not found in Excel: 0
-- Project participation rate: 73.94%
+- Project participation rate: 78.17%
 
 ## Project Details
 
@@ -621,6 +621,34 @@ Generated on: 2024-12-13 13:56:55
 - Members: 1 students
 - GitHub: https://github.com/SeymaSakoglu/MemLock_flutter.git
 
+### Trendify
+
+- Team: Friedhof
+- Leader: Efe Gücüyeter (2320161039)
+- Members: 2 students
+- GitHub: https://github.com/efegucuyeter/Flutter-Trendify
+
+### Flutter-Sptynss
+
+- Team: Mardided
+- Leader: Muhammed Talha Güleryüz (2320161045)
+- Members: 2 students
+- GitHub: https://github.com/TalhaGuer/Flutter-Sptynss
+
+### AutoCare
+
+- Team: apocanonthetrack
+- Leader: Alperen Can (2320161117)
+- Members: 1 students
+- GitHub: https://github.com/AlperenlCan/AutoCare
+
+### GameLog
+
+- Team: Starsoftware
+- Leader: Eray Remzi Yıldız (2320161103)
+- Members: 1 students
+- GitHub: https://github.com/Lenuxxlacc/GameLog_flutter/tree/main
+
 ## Students Without Project Assignments
 
 | Student No | Name                    | Program                       | Class |
@@ -639,13 +667,9 @@ Generated on: 2024-12-13 13:56:55
 | 2320161007 | MUSTAFA TALHA ÇOLAKOĞLU | Bilgisayar Programcılığı      | 2     |
 | 2320161017 | MUSTAFA CANBAY          | Bilgisayar Programcılığı (İÖ) | 2     |
 | 2320161019 | EMİRHAN KALAM           | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161027 | AYBARS AKBABA           | Bilgisayar Programcılığı      | 2     |
 | 2320161028 | METE SELİM İSPİRLİ      | Bilgisayar Programcılığı      | 2     |
 | 2320161032 | DOĞAN YILMAZ            | Bilgisayar Programcılığı      | 2     |
-| 2320161039 | EFE GÜCÜYETER           | Bilgisayar Programcılığı      | 2     |
-| 2320161045 | MUHAMMED TALHA GÜLERYÜZ | Bilgisayar Programcılığı      | 2     |
 | 2320161054 | BERNA AKSAK             | Bilgisayar Programcılığı      | 2     |
-| 2320161055 | ÖMER ÇIRAK              | Bilgisayar Programcılığı      | 2     |
 | 2320161059 | DENİZ YILMAZ            | Bilgisayar Programcılığı      | 2     |
 | 2320161064 | ABDULLAHCAN ÇOŞKUN      | Bilgisayar Programcılığı      | 2     |
 | 2320161069 | HAKAN AYDIN             | Bilgisayar Programcılığı      | 2     |
@@ -653,8 +677,6 @@ Generated on: 2024-12-13 13:56:55
 | 2320161092 | EMİRHAN BEŞİKCİ         | Bilgisayar Programcılığı (İÖ) | 2     |
 | 2320161094 | AHMET BARAN AĞKÜL       | Bilgisayar Programcılığı (İÖ) | 2     |
 | 2320161099 | EGEMEN YAKUP ÖZDEMİR    | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161103 | ERAY REMZİ YILDIZ       | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161117 | ALPEREN CAN             | Bilgisayar Programcılığı (İÖ) | 2     |
 | 2320161120 | ERTUĞRUL ERTÜRK         | Bilgisayar Programcılığı (İÖ) | 2     |
 | 2320161123 | BEYZA FATMA AKKILIÇ     | Bilgisayar Programcılığı (İÖ) | 2     |
 | 2320161128 | MUHAMMET ÖZMEN          | Bilgisayar Programcılığı (İÖ) | 2     |
