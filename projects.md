@@ -1,32 +1,40 @@
-# Student Projects Analysis Report
+Student Projects Analysis Report
+Generated on: 2024-12-13 14:59:51
 
-Generated on: 2024-12-13 14:37:59
+Summary Statistics
+Total number of students in Excel: 142
 
-## Summary Statistics
+Total number of projects: 88
 
-- Total number of students in Excel: 142
-- Total number of projects: 88
-- Number of students without projects: 33
-- Number of project students not found in Excel: 0
-- Project participation rate: 76.76%
+Number of students without projects: 33
 
-## Project Details
+Number of project students not found in Excel: 0
 
-### BudgetBuddy
+Project participation rate: 76.76%
 
-- Team: Dark
-- Leader: Yunus Eğriboz (2320161029)
-- Members: 2 students
-- GitHub: https://github.com/yunusegriboz/BudgetBuddy
+Project Details
+BudgetBuddy
+Team: Dark
 
-#### Flutter Project Analysis
+Leader: Yunus Eğriboz (2320161029)
 
-- **Package Name:** budgetbuddy
-- **Version:** 0.1.0
+Members: 2 students
 
-**Dependencies:**
+GitHub: https://github.com/yunusegriboz/BudgetBuddy
 
-```yaml
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161029	N/A	0	0
+N/A	N/A	2320161085	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: budgetbuddy
+
+Version: 0.1.0
+
+Dependencies:
+
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -35,18 +43,12 @@ go_router: ^14.6.1
 http: ^1.2.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -58,11 +60,8 @@ Files: main.dart
   Files: api.dart, authservice.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -73,42 +72,38 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.gif, q.lottie, q2.lottie, users.lottie
-```
+HaberAl
+Team: F-UZUN
 
----
+Leader: Firdevs UZUN (2320161009)
 
-### HaberAl
+Members: 1 students
 
-- Team: F-UZUN
-- Leader: Firdevs UZUN (2320161009)
-- Members: 1 students
-- GitHub: https://github.com/firdevsuzun/HaberAl
+GitHub: https://github.com/firdevsuzun/HaberAl
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161009	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: haberal
 
-- **Package Name:** haberal
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 shared_preferences: ^2.3.3
 go_router: ^14.6.2
 flutter_secure_storage: ^9.2.2
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, theme.dart
@@ -118,49 +113,44 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── images
   Files: logo.png
-```
+Flawless Code
+Team: Digital Architects
 
----
+Leader: Ömer Faruk Yıldız (2320161043)
 
-### Flawless Code
+Members: 3 students
 
-- Team: Digital Architects
-- Leader: Ömer Faruk Yıldız (2320161043)
-- Members: 3 students
-- GitHub: https://github.com/omerfaruk-yildiz/Flawless-Code.git
+GitHub: https://github.com/omerfaruk-yildiz/Flawless-Code.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161043	N/A	0	0
+N/A	N/A	2320161058	N/A	0	0
+N/A	N/A	2320161013	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: rotues.dart, storage.dart, themes.dart
@@ -170,11 +160,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -185,25 +172,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+Noisekloud
+Team: Noise
 
----
+Leader: Batuhan Yeniocak (211216066)
 
-### Noisekloud
+Members: 1 students
 
-- Team: Noise
-- Leader: Batuhan Yeniocak (211216066)
-- Members: 1 students
-- GitHub: https://github.com/batuhanyeniocak/Flutter-Noisekloud
+GitHub: https://github.com/batuhanyeniocak/Flutter-Noisekloud
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	211216066	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
@@ -211,18 +200,12 @@ go_router: ^14.6.1
 shared_preferences: ^2.3.3
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -232,11 +215,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -249,42 +229,38 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt
-```
+ShineUp
+Team: Nadia
 
----
+Leader: Nida Nur KÖSE (2320161101)
 
-### ShineUp
+Members: 1 students
 
-- Team: Nadia
-- Leader: Nida Nur KÖSE (2320161101)
-- Members: 1 students
-- GitHub: https://github.com/nidanurkose/ShineUp-Flutter
+GitHub: https://github.com/nidanurkose/ShineUp-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161101	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -294,11 +270,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -311,25 +284,27 @@ Files: main.dart
   Files: motions.txt
 ├── screenshots
   Files: goals_screenshots.png, home_screenshots.png, loading_screenshots.png
-```
+SparkPay
+Team: tollgaa
 
----
+Leader: Tolga Murat Tor (2320161107)
 
-### SparkPay
+Members: 1 students
 
-- Team: tollgaa
-- Leader: Tolga Murat Tor (2320161107)
-- Members: 1 students
-- GitHub: https://github.com/tollgaa/SparkPay-Flutter
+GitHub: https://github.com/tollgaa/SparkPay-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161107	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: sparkpay
 
-- **Package Name:** sparkpay
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
@@ -337,18 +312,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart
@@ -358,11 +327,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -373,25 +339,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: homelogo.lottie, homelogo1.lottie, loading.lottie, lockscreen.lottie, motions.txt
-```
+HepsiTrend
+Team: Miura
 
----
+Leader: Berke Düzgün (221216085)
 
-### HepsiTrend
+Members: 1 students
 
-- Team: Miura
-- Leader: Berke Düzgün (221216085)
-- Members: 1 students
-- GitHub: https://github.com/Berkeduzgun/HepsiTrend-Flutter
+GitHub: https://github.com/Berkeduzgun/HepsiTrend-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	221216085	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -399,18 +367,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -420,11 +382,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -437,36 +396,44 @@ Files: main.dart
   Files: loading.lottie, motions.txt
 ├── screenshots
   Files: 1.png, 2.png, 3.png
-```
+SportCity
+Team: SonsOfCode
 
----
+Leader: Yasin Karagöz (2320161115)
 
-### SportCity
+Members: 3 students
 
-- Team: SonsOfCode
-- Leader: Yasin Karagöz (2320161115)
-- Members: 3 students
-- GitHub: https://github.com/Ysnkrgzz/SportCity
+GitHub: https://github.com/Ysnkrgzz/SportCity
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161115	N/A	0	0
+N/A	N/A	2320161153	N/A	0	0
+N/A	N/A	2320161154	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+ESPA
+Team: E&E
 
----
+Leader: Eren Eker (2320161078)
 
-### ESPA
+Members: 1 students
 
-- Team: E&E
-- Leader: Eren Eker (2320161078)
-- Members: 1 students
-- GitHub: https://github.com/ereninpenceresi/ESPA-Flutter
+GitHub: https://github.com/ereninpenceresi/ESPA-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161078	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -474,18 +441,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^5.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -495,11 +456,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -510,33 +468,38 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: E.lottie, loading.lottie, motions.txt
-```
+InfoWorld
+Team: AlwaysSolo
 
----
+Leader: Efe Can Genç (222016722)
 
-### InfoWorld
+Members: 1 students
 
-- Team: AlwaysSolo
-- Leader: Efe Can Genç (222016722)
-- Members: 1 students
-- GitHub: https://github.com/efecangenc/InfoWorld
+GitHub: https://github.com/efecangenc/InfoWorld
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	222016722	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+My Perfect Job
+Team: BLT
 
----
+Leader: Ferhat Bolat (2320161082)
 
-### My Perfect Job
+Members: 1 students
 
-- Team: BLT
-- Leader: Ferhat Bolat (2320161082)
-- Members: 1 students
-- GitHub: https://github.com/ferhatbolat19/Q-Flutter.git
+GitHub: https://github.com/ferhatbolat19/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161082	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -546,11 +509,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: custom_drawer.dart, job_card.dart, logo.dart, profile_header.dart, search_bar.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -561,25 +521,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+VividTracker
+Team: CreativeT
 
----
+Leader: Furkan Turğut (2320161127)
 
-### VividTracker
+Members: 1 students
 
-- Team: CreativeT
-- Leader: Furkan Turğut (2320161127)
-- Members: 1 students
-- GitHub: https://github.com/furkanturgut/VividTracker
+GitHub: https://github.com/furkanturgut/VividTracker
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161127	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 date_picker_timeline: ^1.2.6
 dotlottie_loader: ^0.0.4
@@ -588,18 +550,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: router.dart, storage.dart, themes.dart
@@ -609,11 +565,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_navi.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -624,25 +577,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: create_task.lottie, loading.lottie, motions.txt
-```
+RedRoute
+Team: SoloRoute
 
----
+Leader: Dilara Dertli (2320161022)
 
-### RedRoute
+Members: 1 students
 
-- Team: SoloRoute
-- Leader: Dilara Dertli (2320161022)
-- Members: 1 students
-- GitHub: https://github.com/dilaradertli/RedRoute
+GitHub: https://github.com/dilaradertli/RedRoute
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161022	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -650,18 +605,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -671,11 +620,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -686,62 +632,68 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt
-```
+Serenova
+Team: code&calm
 
----
+Leader: Rabia Dündar (2320161015)
 
-### Serenova
+Members: 1 students
 
-- Team: code&calm
-- Leader: Rabia Dündar (2320161015)
-- Members: 1 students
-- GitHub: https://github.com/rabiadundar/Serenova-Flutter
+GitHub: https://github.com/rabiadundar/Serenova-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161015	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+IddaliSpor
+Team: EEK
 
----
+Leader: Emir Efe Kılıç (221216069)
 
-### IddaliSpor
+Members: 1 students
 
-- Team: EEK
-- Leader: Emir Efe Kılıç (221216069)
-- Members: 1 students
-- GitHub: https://github.com/Emmir5/IddaliSpor.git
+GitHub: https://github.com/Emmir5/IddaliSpor.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	221216069	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+WanderWise
+Team: Parlayan Yıldızlar Takımı
 
----
+Leader: Yusuf Hakan YARGICI (2320161118)
 
-### WanderWise
+Members: 3 students
 
-- Team: Parlayan Yıldızlar Takımı
-- Leader: Yusuf Hakan YARGICI (2320161118)
-- Members: 3 students
-- GitHub: https://github.com/hakanyargici/WanderWise
+GitHub: https://github.com/hakanyargici/WanderWise
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161118	N/A	0	0
+N/A	N/A	2320161132	N/A	0	0
+N/A	N/A	2320161109	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: midterm
 
-- **Package Name:** midterm
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 google_fonts: ^5.0.0
 webview_flutter: ^3.0.0
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^5.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -749,48 +701,43 @@ Files: main.dart
   Files: WebViewScreen.dart, blog_category.dart, blog_details.dart, boarding_screen.dart, home_screen.dart, profile_screen.dart
 ├── widgets
   Files: my_clock.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 Files: WanderWise.png, bali.jpg, paris.jpg, sliderimage1.jpg, sliderimage2.jpg, sliderimage3.jpg, yenizellanda.jpg
-```
+Obstatil
+Team: ERE Software
 
----
+Leader: Eren Tan (2320161024)
 
-### Obstatil
+Members: 3 students
 
-- Team: ERE Software
-- Leader: Eren Tan (2320161024)
-- Members: 3 students
-- GitHub: https://github.com/MrTann/Obstatil.git
+GitHub: https://github.com/MrTann/Obstatil.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161024	N/A	0	0
+N/A	N/A	2320161038	N/A	0	0
+N/A	N/A	2320161077	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -802,11 +749,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -815,42 +759,38 @@ Files: main.dart
   Files: girisanimasyon.png, sign.png, temp.txt
   ├── screenshots
     Files: healthform.jpeg, homescreen.jpeg, loadingscreen.jpeg, widget.jpeg
-```
+StarHoops
+Team: rockstarmade
 
----
+Leader: Alper Bayraktar (2320161100)
 
-### StarHoops
+Members: 1 students
 
-- Team: rockstarmade
-- Leader: Alper Bayraktar (2320161100)
-- Members: 1 students
-- GitHub: https://github.com/alperbyrktrr/flutter_project
+GitHub: https://github.com/alperbyrktrr/flutter_project
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161100	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -860,11 +800,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -875,25 +812,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: temp.txt
-```
+ColorNotes
+Team: Eira
 
----
+Leader: Zehranur Karaoğul (2320161031)
 
-### ColorNotes
+Members: 1 students
 
-- Team: Eira
-- Leader: Zehranur Karaoğul (2320161031)
-- Members: 1 students
-- GitHub: https://github.com/zehranurkarogul/ColorNotes-Flutter
+GitHub: https://github.com/zehranurkarogul/ColorNotes-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161031	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -901,18 +840,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -922,11 +855,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -937,25 +867,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt
-```
+Güncel Medya
+Team: Sıfırdan Bire
 
----
+Leader: Umut Barış (2320161090)
 
-### Güncel Medya
+Members: 1 students
 
-- Team: Sıfırdan Bire
-- Leader: Umut Barış (2320161090)
-- Members: 1 students
-- GitHub: https://github.com/umutbaris00/Guncel-Medya
+GitHub: https://github.com/umutbaris00/Guncel-Medya
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161090	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_localization: ^0.2.3
@@ -970,18 +902,12 @@ provider: ^6.1.2
 rive: ^0.13.20
 shared_preferences: ^2.3.3
 translator: ^1.0.3+1
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -991,36 +917,35 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── animations
   Files: animated_login_screen.riv
 ├── images
   Files: logo.png, turkiye.png, usa.png
 ├── languages
   Files: temp.txt
-```
+Listly
+Team: Novaco
 
----
+Leader: Fatma Kaplan (2320161035)
 
-### Listly
+Members: 1 students
 
-- Team: Novaco
-- Leader: Fatma Kaplan (2320161035)
-- Members: 1 students
-- GitHub: https://github.com/fatmaakaplan/Listly-Flutter
+GitHub: https://github.com/fatmaakaplan/Listly-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161035	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1028,19 +953,13 @@ flutter_secure_storage: ^9.2.2
 go_router: ^8.1.0
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 provider: ^6.0.4
 flutter_lints: ^5.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -1052,11 +971,8 @@ Files: main.dart
   Files: api.dart
 ├── wigdets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: PlaywriteHrvatskaLijeva.ttf, temp.txt
 ├── icons
@@ -1067,41 +983,37 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt
-```
+gameoflibrary
+Team: doublekey
 
----
+Leader: Onur ALTUN (2320161051)
 
-### gameoflibrary
+Members: 1 students
 
-- Team: doublekey
-- Leader: Onur ALTUN (2320161051)
-- Members: 1 students
-- GitHub: https://github.com/onuraltnxd/gameoflibrary
+GitHub: https://github.com/onuraltnxd/gameoflibrary
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161051	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: messi
 
-- **Package Name:** messi
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 go_router: ^14.6.2
 flutter_secure_storage: ^9.2.2
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themas.dart
@@ -1111,25 +1023,27 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Tarif Atlası
+Team: YETA
 
----
+Leader: Esra Alkaya (2320161087)
 
-### Tarif Atlası
+Members: 1 students
 
-- Team: YETA
-- Leader: Esra Alkaya (2320161087)
-- Members: 1 students
-- GitHub: https://github.com/esralkya/TarifAtlasiii.git
+GitHub: https://github.com/esralkya/TarifAtlasiii.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161087	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: tarif_atlasi
 
-- **Package Name:** tarif_atlasi
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1137,18 +1051,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart, tarif_detay.dart
 ├── core
   Files: router.dart, storage.dart, themes.dart
@@ -1158,11 +1066,8 @@ Files: main.dart, tarif_detay.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -1173,25 +1078,27 @@ Files: main.dart, tarif_detay.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+Notes
+Team: Restala
 
----
+Leader: Kerem Ağıröz (2320161057)
 
-### Notes
+Members: 1 students
 
-- Team: Restala
-- Leader: Kerem Ağıröz (2320161057)
-- Members: 1 students
-- GitHub: https://github.com/KeremAgiroz/Notes.git
+GitHub: https://github.com/KeremAgiroz/Notes.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161057	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1200,18 +1107,12 @@ go_router: ^14.6.1
 intl: ^0.20.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -1221,11 +1122,8 @@ Files: main.dart
   Files: api.dart
 ├── widgest
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -1236,36 +1134,42 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: kalp.lottie, motions.txt
-```
+MyPlanner
+Team: Suze
 
----
+Leader: Zeynep Sude Akbulut (2320161081)
 
-### MyPlanner
+Members: 1 students
 
-- Team: Suze
-- Leader: Zeynep Sude Akbulut (2320161081)
-- Members: 1 students
-- GitHub: https://github.com/zeynepsudeakb/MyPlanner-Flutter.git
+GitHub: https://github.com/zeynepsudeakb/MyPlanner-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161081	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Bakery_Menu
+Team: Pamen
 
----
+Leader: Ali Rıza Zengin (2320161151)
 
-### Bakery_Menu
+Members: 1 students
 
-- Team: Pamen
-- Leader: Ali Rıza Zengin (2320161151)
-- Members: 1 students
-- GitHub: https://github.com/aliriza1926/Bakery_Menu
+GitHub: https://github.com/aliriza1926/Bakery_Menu
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161151	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0+1
+Version: 0.1.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 provider: ^6.1.2
@@ -1275,52 +1179,45 @@ flutter_secure_storage: ^9.2.2
 lottie: ^3.1.3
 dotlottie_loader: ^0.0.4
 go_router: ^14.6.2
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart, temp.txt
 ├── core
   Files: themes.dart
 ├── screens
   Files: home_screen.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 Files: temp.txt
 ├── icons
   Files: moon.png
 ├── images
   Files: acma.jpg, cay.jpg, kahve.jpg, kirpidesi.jpg, kola.jpg, meyvesuyu.jpg, pogaca.jpg, proje.png, simit.jpg, su.jpg, suboregi.jpg, temp.txt
-```
+Kaya Tatlıcıları
+Team: Blue
 
----
+Leader: Mustafa Kaya (2320161046)
 
-### Kaya Tatlıcıları
+Members: 1 students
 
-- Team: Blue
-- Leader: Mustafa Kaya (2320161046)
-- Members: 1 students
-- GitHub: https://github.com/Matttiuz/Kaya-Tatlicilari
+GitHub: https://github.com/Matttiuz/Kaya-Tatlicilari
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161046	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1328,18 +1225,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -1353,11 +1244,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -1368,53 +1256,53 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.gif, q.lottie, q2.lottie, users.lottie
-```
+HiFit
+Team: Novac
 
----
+Leader: Anıl Pomakoğlu (2320161108)
 
-### HiFit
+Members: 1 students
 
-- Team: Novac
-- Leader: Anıl Pomakoğlu (2320161108)
-- Members: 1 students
-- GitHub: https://github.com/anilpomakoglu/HiFit-Flutter.git
+GitHub: https://github.com/anilpomakoglu/HiFit-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161108	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+EVENTSHUNTER
+Team: SALTAN
 
----
+Leader: AYDIN BARAN SALTAN (2320161095)
 
-### EVENTSHUNTER
+Members: 1 students
 
-- Team: SALTAN
-- Leader: AYDIN BARAN SALTAN (2320161095)
-- Members: 1 students
-- GitHub: https://github.com/Baransaltan/EVENTHUNTER.git
+GitHub: https://github.com/Baransaltan/EVENTHUNTER.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161095	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -1424,11 +1312,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── assets
   ├── fonts
     Files: temp.txt
@@ -1440,25 +1325,28 @@ Files: main.dart
     Files: temp.txt
   ├── motions
     Files: motions.txt
-```
+ROADplus
+Team: SkyRoute
 
----
+Leader: Emre Eviren (2320161083)
 
-### ROADplus
+Members: 2 students
 
-- Team: SkyRoute
-- Leader: Emre Eviren (2320161083)
-- Members: 2 students
-- GitHub: https://github.com/EmreEviren/ROADplus
+GitHub: https://github.com/EmreEviren/ROADplus
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161083	N/A	0	0
+N/A	N/A	2320161148	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1466,18 +1354,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -1489,11 +1371,8 @@ Files: main.dart
   Files: bottom_menu.dart
 ├── wigdets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -1502,25 +1381,27 @@ Files: main.dart
   Files: bilet.jpg, bmw.png, cherry.png, clio.png, diyarbakır.png, italya.png, kampanya.png, kastamonu.png, logo.png, metro.png, peugot.png, temp.txt, testo.jpg
 ├── languages
   Files: tem.txt
-```
+Gezgin Rehberi
+Team: ZexA
 
----
+Leader: Zeynep Alptekin (2320161026)
 
-### Gezgin Rehberi
+Members: 1 students
 
-- Team: ZexA
-- Leader: Zeynep Alptekin (2320161026)
-- Members: 1 students
-- GitHub: https://github.com/zeynepalptekin/WanderCompass.git
+GitHub: https://github.com/zeynepalptekin/WanderCompass.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161026	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1528,18 +1409,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -1549,11 +1424,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -1564,36 +1436,42 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.lottie
-```
+FitBuddy
+Team: YBS
 
----
+Leader: Yusuf Baran Söylemez (2320161075)
 
-### FitBuddy
+Members: 1 students
 
-- Team: YBS
-- Leader: Yusuf Baran Söylemez (2320161075)
-- Members: 1 students
-- GitHub: https://github.com/baransoylemez49/Q-Flutter.git
+GitHub: https://github.com/baransoylemez49/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161075	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Project LudusNews
+Team: Team Radeon
 
----
+Leader: ahmet emre kara (2320161155)
 
-### Project LudusNews
+Members: 1 students
 
-- Team: Team Radeon
-- Leader: ahmet emre kara (2320161155)
-- Members: 1 students
-- GitHub: https://github.com/endikol88/Q-Flutter.git
+GitHub: https://github.com/endikol88/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161155	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
@@ -1602,18 +1480,12 @@ shared_preferences: ^2.3.3
 json_editor: ^0.0.8
 lottie: ^3.1.3
 url_launcher: ^6.0.20
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── assets
   ├── fonts
@@ -1636,25 +1508,27 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Moodify
+Team: DT Codes
 
----
+Leader: Muhammet Doğukan Tellioğlu (2320161023)
 
-### Moodify
+Members: 1 students
 
-- Team: DT Codes
-- Leader: Muhammet Doğukan Tellioğlu (2320161023)
-- Members: 1 students
-- GitHub: https://github.com/DogukanTellioglu/Moodify
+GitHub: https://github.com/DogukanTellioglu/Moodify
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161023	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1662,18 +1536,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -1683,11 +1551,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -1698,25 +1563,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.lottie, q2.lottie, users.lottie
-```
+satiyo
+Team: RD
 
----
+Leader: Emircan er (2320161159)
 
-### satiyo
+Members: 1 students
 
-- Team: RD
-- Leader: Emircan er (2320161159)
-- Members: 1 students
-- GitHub: https://github.com/Emir811/RD-flutter.git
+GitHub: https://github.com/Emir811/RD-flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161159	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1724,18 +1591,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -1747,11 +1608,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── images
@@ -1760,25 +1618,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.lottie
-```
+Fungipedia
+Team: BrutalBurger
 
----
+Leader: Alperen Turan (2320161008)
 
-### Fungipedia
+Members: 1 students
 
-- Team: BrutalBurger
-- Leader: Alperen Turan (2320161008)
-- Members: 1 students
-- GitHub: https://github.com/acimasizburger/Q-Flutter
+GitHub: https://github.com/acimasizburger/Q-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161008	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: Fungipedia
 
-- **Package Name:** Fungipedia
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
@@ -1786,18 +1646,12 @@ go_router: ^14.6.2
 shared_preferences: ^2.3.3
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -1809,11 +1663,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── icons
   Files: temp.txt
 ├── images
@@ -1822,80 +1673,80 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+TaskTerk
+Team: Nsashrafi
 
----
+Leader: Nafiseh Ashrafisis (2320165060)
 
-### TaskTerk
+Members: 1 students
 
-- Team: Nsashrafi
-- Leader: Nafiseh Ashrafisis (2320165060)
-- Members: 1 students
-- GitHub: https://github.com/NsAshrafi/task-terk
+GitHub: https://github.com/NsAshrafi/task-terk
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320165060	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: task_terk
 
-- **Package Name:** task_terk
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_svg: ^2.0.16
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^5.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── pages
   Files: profile_page.dart, signin_page.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── img
   Files: back.jpg, back1.jpg, back2.jpg, back3.jpg, back4.jpg, logo.jpg, logo.svg
-```
+Collect & Connect
+Team: Dinoco
 
----
+Leader: Bulut Karakuş (2320161025)
 
-### Collect & Connect
+Members: 1 students
 
-- Team: Dinoco
-- Leader: Bulut Karakuş (2320161025)
-- Members: 1 students
-- GitHub: https://github.com/BulutKrks/C-C-Flutter
+GitHub: https://github.com/BulutKrks/C-C-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161025	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Eco Balance
+Team: Ecological team
 
----
+Leader: Fatih Demir (2320161079)
 
-### Eco Balance
+Members: 2 students
 
-- Team: Ecological team
-- Leader: Fatih Demir (2320161079)
-- Members: 2 students
-- GitHub: https://github.com/Demir-7/Q-Flutter
+GitHub: https://github.com/Demir-7/Q-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161079	N/A	0	0
+N/A	N/A	2320161010	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1903,18 +1754,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -1924,11 +1769,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: fonts.txt
 ├── icons
@@ -1939,25 +1781,27 @@ Files: main.dart
   Files: languages.txt
 ├── motions
   Files: loading.lottie, motions.txt
-```
+HypeFit
+Team: Ace
 
----
+Leader: Hatice Çelik (2320161011)
 
-### HypeFit
+Members: 1 students
 
-- Team: Ace
-- Leader: Hatice Çelik (2320161011)
-- Members: 1 students
-- GitHub: https://github.com/whaticecelik/HypeFit.git
+GitHub: https://github.com/whaticecelik/HypeFit.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161011	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -1965,18 +1809,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -1988,11 +1826,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2003,25 +1838,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, soon.lottie
-```
+Marvel of Art
+Team: taco
 
----
+Leader: Tarık Luş (221216043)
 
-### Marvel of Art
+Members: 1 students
 
-- Team: taco
-- Leader: Tarık Luş (221216043)
-- Members: 1 students
-- GitHub: https://github.com/tariklus/Q-Flutter
+GitHub: https://github.com/tariklus/Q-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	221216043	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2029,18 +1866,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.2.3
 lottie: ^3.1.3
 shared_preferences: ^2.2.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^2.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -2050,11 +1881,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2065,25 +1893,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie
-```
+BookHive
+Team: ReadSphere
 
----
+Leader: Engin Öztürk (2320161071)
 
-### BookHive
+Members: 1 students
 
-- Team: ReadSphere
-- Leader: Engin Öztürk (2320161071)
-- Members: 1 students
-- GitHub: https://github.com/EnginOzturk-7/BookHive-flutter
+GitHub: https://github.com/EnginOzturk-7/BookHive-flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161071	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2091,18 +1921,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: storage.dart, themes.dart
@@ -2114,11 +1938,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart, widgets.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2129,47 +1950,59 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, temp.txt
-```
+RecipeBook
+Team: SümKzn
 
----
+Leader: Sümeyye Kazan (2320161006)
 
-### RecipeBook
+Members: 1 students
 
-- Team: SümKzn
-- Leader: Sümeyye Kazan (2320161006)
-- Members: 1 students
-- GitHub: https://github.com/sumeyyekazan/Sk-Flutter
+GitHub: https://github.com/sumeyyekazan/Sk-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161006	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+My Kitchen Assistant
+Team: Erenn
 
----
+Leader: Eren Turhan (2320161037)
 
-### My Kitchen Assistant
+Members: 1 students
 
-- Team: Erenn
-- Leader: Eren Turhan (2320161037)
-- Members: 1 students
-- GitHub: https://github.com/erenturhan1/Q-Flutter.git
+GitHub: https://github.com/erenturhan1/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161037	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Actifit
+Team: The Finals
 
----
+Leader: Ali Berk Kalaycı (2320161050)
 
-### Actifit
+Members: 3 students
 
-- Team: The Finals
-- Leader: Ali Berk Kalaycı (2320161050)
-- Members: 3 students
-- GitHub: https://github.com/actifit24/Q-Flutter.git
+GitHub: https://github.com/actifit24/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161050	N/A	0	0
+N/A	N/A	2320161080	N/A	0	0
+N/A	N/A	2320161067	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2177,18 +2010,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -2200,11 +2027,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2215,25 +2039,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, piechart.lottie, temp.txt, yemek.lottie
-```
+H2OLog
+Team: CodeWarrior
 
----
+Leader: Enes Özdemir (2320161106)
 
-### H2OLog
+Members: 1 students
 
-- Team: CodeWarrior
-- Leader: Enes Özdemir (2320161106)
-- Members: 1 students
-- GitHub: https://github.com/ensozdemir/H2OLog-Flutter.git
+GitHub: https://github.com/ensozdemir/H2OLog-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161106	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app2
 
-- **Package Name:** flutter_app2
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2241,18 +2067,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constant.dart, routes.dart, storage.dart, themes.dart
@@ -2262,11 +2082,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2277,36 +2094,42 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading2.lottie, motions.txt, waves.lottie
-```
+FinansUp
+Team: HedefFinans
 
----
+Leader: Ömer Melih Bayram (2320161084)
 
-### FinansUp
+Members: 1 students
 
-- Team: HedefFinans
-- Leader: Ömer Melih Bayram (2320161084)
-- Members: 1 students
-- GitHub: https://github.com/omermelihbayram/FinansUp.git
+GitHub: https://github.com/omermelihbayram/FinansUp.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161084	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Dünya Atlası
+Team: Tenshi
 
----
+Leader: Ozan Özdemir (2320161041)
 
-### Dünya Atlası
+Members: 1 students
 
-- Team: Tenshi
-- Leader: Ozan Özdemir (2320161041)
-- Members: 1 students
-- GitHub: https://github.com/0zanozdmr/Tarih-Atlasi.git
+GitHub: https://github.com/0zanozdmr/Tarih-Atlasi.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161041	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2314,18 +2137,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -2337,11 +2154,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2352,36 +2166,42 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt, yuklenme.lottie
-```
+Haykolig
+Team: Beafish
 
----
+Leader: Tarık Ustaoğlu (2320161114)
 
-### Haykolig
+Members: 1 students
 
-- Team: Beafish
-- Leader: Tarık Ustaoğlu (2320161114)
-- Members: 1 students
-- GitHub: https://github.com/Tarikusta52/haykollig
+GitHub: https://github.com/Tarikusta52/haykollig
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161114	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Partyverse
+Team: JustMR
 
----
+Leader: Muhammed Miraç Turatutuk (2320161149)
 
-### Partyverse
+Members: 1 students
 
-- Team: JustMR
-- Leader: Muhammed Miraç Turatutuk (2320161149)
-- Members: 1 students
-- GitHub: https://github.com/BrieflyMR/MR-Flutter
+GitHub: https://github.com/BrieflyMR/MR-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161149	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2389,18 +2209,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -2410,11 +2224,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: Montserrat-Medium.ttf, Parkinsans-Bold.ttf, temp.txt
 ├── icons
@@ -2427,25 +2238,29 @@ Files: main.dart
   Files: loading.lottie, loading2.lottie, loading3.lottie, motions.txt, notifications.lottie, notifications2.lottie, party.lottie, party2.lottie, profile.lottie, search.lottie, shopping.lottie
 ├── screenshots
   Files: alisverisresmi.png, anasayfaresmi.png, aramaresmi.png, bildirimresmi.png, profilresmi.png, yanpencereresmi.png, yüklenmeekranıresmi.png
-```
+XenLauncher
+Team: XenGarage
 
----
+Leader: Yusuf Arıkoğlu (2320161098)
 
-### XenLauncher
+Members: 3 students
 
-- Team: XenGarage
-- Leader: Yusuf Arıkoğlu (2320161098)
-- Members: 3 students
-- GitHub: https://github.com/mertcelikt/Flutter.git
+GitHub: https://github.com/mertcelikt/Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161098	N/A	0	0
+N/A	N/A	2320161144	N/A	0	0
+N/A	N/A	2320161147	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: xenolauncher
 
-- **Package Name:** xenolauncher
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2453,18 +2268,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -2474,36 +2283,35 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── icons
   Files: temp.txt
 ├── images
   Files: logo.webp
 ├── motions
   Files: loading.lottie, q2.lottie, robot.lottie
-```
+Kahve diyarı
+Team: Shjika
 
----
+Leader: Görkem Arslan (2320161068)
 
-### Kahve diyarı
+Members: 1 students
 
-- Team: Shjika
-- Leader: Görkem Arslan (2320161068)
-- Members: 1 students
-- GitHub: https://github.com/Gorkemarslan57/KahveDiyari
+GitHub: https://github.com/Gorkemarslan57/KahveDiyari
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161068	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2512,18 +2320,12 @@ go_router: ^14.6.2
 lottie: ^3.1.3
 path_provider: ^2.1.5
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -2533,11 +2335,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── icons
   Files: temp.txt
 ├── images
@@ -2548,42 +2347,38 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt
-```
+home_decoration
+Team: Home Designers
 
----
+Leader: Onur Güzelordu (2320161089)
 
-### home_decoration
+Members: 1 students
 
-- Team: Home Designers
-- Leader: Onur Güzelordu (2320161089)
-- Members: 1 students
-- GitHub: https://github.com/onurguzelordu/git-github.com-onurguzelordu-Flutter_Project
+GitHub: https://github.com/onurguzelordu/git-github.com-onurguzelordu-Flutter_Project
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161089	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: home_decoration
 
-- **Package Name:** home_decoration
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
 shared_preferences: ^2.3.3
 go_router: ^14.6.1
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -2593,11 +2388,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2608,25 +2400,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+CarPlay
+Team: TeamBerrin
 
----
+Leader: Berrin Yılmaz (2320161121)
 
-### CarPlay
+Members: 1 students
 
-- Team: TeamBerrin
-- Leader: Berrin Yılmaz (2320161121)
-- Members: 1 students
-- GitHub: https://github.com/berrinyiilmaz/CarPLay-Flutter
+GitHub: https://github.com/berrinyiilmaz/CarPLay-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161121	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: carplay_flutter
 
-- **Package Name:** carplay_flutter
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 shared_preferences: ^2.3.3
@@ -2634,18 +2428,12 @@ go_router: ^14.6.2
 flutter_secure_storage: ^9.2.2
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -2655,11 +2443,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2670,25 +2455,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: animation1.lottie, motions.txt
-```
+Sports_Agenda
+Team: CodeCraft
 
----
+Leader: İlhan Düzgün (2320161097)
 
-### Sports_Agenda
+Members: 1 students
 
-- Team: CodeCraft
-- Leader: İlhan Düzgün (2320161097)
-- Members: 1 students
-- GitHub: https://github.com/ilhandzgn/Sport_Agenda-Flutter.git
+GitHub: https://github.com/ilhandzgn/Sport_Agenda-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161097	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 shared_preferences: ^2.3.3
@@ -2696,18 +2483,12 @@ go_router: ^14.6.2
 flutter_secure_storage: ^9.2.2
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -2717,11 +2498,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2732,36 +2510,42 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: d.lottie, logo.lottie, motions.txt
-```
+InnoVate
+Team: CDENS
 
----
+Leader: Enes Sinanoğlu (2320161052)
 
-### InnoVate
+Members: 1 students
 
-- Team: CDENS
-- Leader: Enes Sinanoğlu (2320161052)
-- Members: 1 students
-- GitHub: https://github.com/EnesSinanoglu/E-Flutter.git
+GitHub: https://github.com/EnesSinanoglu/E-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161052	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+tinoNews
+Team: Tinos
 
----
+Leader: Toprak Egemen Coşkun (2320161040)
 
-### tinoNews
+Members: 1 students
 
-- Team: Tinos
-- Leader: Toprak Egemen Coşkun (2320161040)
-- Members: 1 students
-- GitHub: https://github.com/Topraktino/TinoNews
+GitHub: https://github.com/Topraktino/TinoNews
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161040	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
@@ -2769,18 +2553,12 @@ go_router: ^14.6.1
 shared_preferences: ^2.3.3
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -2796,47 +2574,50 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── icons
   Files: temp.txt
 ├── images
   Files: fbbilbao.jpg, haber1.jpg, haber2.jpg, haber3.jpg, logo.jpg, logo.png, sondakika.jpg, temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.lottie, q2.lottie, users.lottie
-```
+FitLife
+Team: ActiveMind
 
----
+Leader: Betül Alkan (2320161066)
 
-### FitLife
+Members: 1 students
 
-- Team: ActiveMind
-- Leader: Betül Alkan (2320161066)
-- Members: 1 students
-- GitHub: https://github.com/betulalkan/Q-Flutter.git
+GitHub: https://github.com/betulalkan/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161066	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Artify
+Team: Mervision
 
----
+Leader: Merve Çetin (2320161061)
 
-### Artify
+Members: 1 students
 
-- Team: Mervision
-- Leader: Merve Çetin (2320161061)
-- Members: 1 students
-- GitHub: https://github.com/mervecetiin/M-Flutter.git
+GitHub: https://github.com/mervecetiin/M-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161061	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2844,18 +2625,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -2865,11 +2640,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2880,25 +2652,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: 1m9x7tmVfW.lottie, loading.lottie, motions.txt
-```
+Newsly
+Team: CodeAura
 
----
+Leader: Nilay Zehra Karabudak (2320161042)
 
-### Newsly
+Members: 1 students
 
-- Team: CodeAura
-- Leader: Nilay Zehra Karabudak (2320161042)
-- Members: 1 students
-- GitHub: https://github.com/nilaykarabudak/N-Flutter
+GitHub: https://github.com/nilaykarabudak/N-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161042	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2906,18 +2680,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -2927,11 +2695,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -2942,25 +2707,29 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.gif, q.lottie, q2.lottie, q5hJBuJqif.lottie, users.lottie
-```
+Markaj_Gazetesi
+Team: Kodlar Vadisi
 
----
+Leader: Alperen KARADEMİR (2320161014)
 
-### Markaj_Gazetesi
+Members: 3 students
 
-- Team: Kodlar Vadisi
-- Leader: Alperen KARADEMİR (2320161014)
-- Members: 3 students
-- GitHub: https://github.com/Emirhanbgdyc/Markaj_Gazetesi
+GitHub: https://github.com/Emirhanbgdyc/Markaj_Gazetesi
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161014	N/A	0	0
+N/A	N/A	2320161112	N/A	0	0
+N/A	N/A	2320161105	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: markaj_gazetesi
 
-- **Package Name:** markaj_gazetesi
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -2968,18 +2737,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -2991,11 +2754,8 @@ Files: main.dart
     Files: BottomMenu.dart
 ├── widgets
   Files: BottomMenu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3006,36 +2766,42 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motion.txt
-```
+GlowUp
+Team: DazzleCrew
 
----
+Leader: Ayşegül BULUT (2320161143)
 
-### GlowUp
+Members: 1 students
 
-- Team: DazzleCrew
-- Leader: Ayşegül BULUT (2320161143)
-- Members: 1 students
-- GitHub: https://github.com/Aysegul-Bulut/GlowUp-Flutter.git
+GitHub: https://github.com/Aysegul-Bulut/GlowUp-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161143	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Yemekçi
+Team: TK-17
 
----
+Leader: Tarık Karavar (2320161162)
 
-### Yemekçi
+Members: 1 students
 
-- Team: TK-17
-- Leader: Tarık Karavar (2320161162)
-- Members: 1 students
-- GitHub: https://github.com/TarikKaravar/Yemekci-Flutter
+GitHub: https://github.com/TarikKaravar/Yemekci-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161162	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -3043,18 +2809,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -3064,45 +2824,48 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── images
   Files: logo.webp, pp.jpg, t1.PNG, t2.PNG, t3.PNG
 ├── motions
   Files: anasayfaa.lottie, food.lottie, loading1.lottie
-```
+FlexFit
+Team: serhatck
 
----
+Leader: Serhat Doğruyol (2320161065)
 
-### FlexFit
+Members: 1 students
 
-- Team: serhatck
-- Leader: Serhat Doğruyol (2320161065)
-- Members: 1 students
-- GitHub: https://github.com/serhatdgrl/FlexFit
+GitHub: https://github.com/serhatdgrl/FlexFit
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161065	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+CarMatch
+Team: SoloCoder
 
----
+Leader: Kaan Karaçayır (2320161110)
 
-### CarMatch
+Members: 1 students
 
-- Team: SoloCoder
-- Leader: Kaan Karaçayır (2320161110)
-- Members: 1 students
-- GitHub: https://github.com/KaanKaracayirr/CarMatch
+GitHub: https://github.com/KaanKaracayirr/CarMatch
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161110	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -3110,18 +2873,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -3131,11 +2888,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottommenu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3146,42 +2900,39 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.lottie
-```
+CELESTIA BOUTIQUE MOBILE
+Team: CodeMind
 
----
+Leader: Begüm Yurttabir (2320161122)
 
-### CELESTIA BOUTIQUE MOBILE
+Members: 2 students
 
-- Team: CodeMind
-- Leader: Begüm Yurttabir (2320161122)
-- Members: 2 students
-- GitHub: https://github.com/bgmyurttabir/Celestia-Boutique-Mobile-Flutter
+GitHub: https://github.com/bgmyurttabir/Celestia-Boutique-Mobile-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161122	N/A	0	0
+N/A	N/A	2320161135	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3189,11 +2940,8 @@ Files: main.dart
   Files: main_view.dart, shop_view.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3204,25 +2952,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: temp.txt
-```
+Fitness Asistan
+Team: BB-322
 
----
+Leader: Buğra Kasapoğlu (2320161088)
 
-### Fitness Asistan
+Members: 1 students
 
-- Team: BB-322
-- Leader: Buğra Kasapoğlu (2320161088)
-- Members: 1 students
-- GitHub: https://github.com/bugrakasapoglu/FitnessAsistan
+GitHub: https://github.com/bugrakasapoglu/FitnessAsistan
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161088	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 go_router: ^14.6.2
@@ -3231,18 +2981,12 @@ shared_preferences: ^2.3.3
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
 qr_flutter: ^4.1.0
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3252,51 +2996,44 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── images
   Files: 1.PNG, 2.PNG, 3.PNG, logo.webp, pp.jpg
 ├── motions
   Files: home.lottie, loading.lottie
-```
+ShopGo
+Team: Syntax Savers
 
----
+Leader: Mehmet Şükrü İldemir (211216003)
 
-### ShopGo
+Members: 1 students
 
-- Team: Syntax Savers
-- Leader: Mehmet Şükrü İldemir (211216003)
-- Members: 1 students
-- GitHub: https://github.com/MehmetSukruIldemir/ShopGo
+GitHub: https://github.com/MehmetSukruIldemir/ShopGo
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	211216003	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 shared_preferences: ^2.3.3
 go_router: ^14.6.2
 flutter_secure_storage: ^9.2.2
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^5.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3306,11 +3043,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3321,25 +3055,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+WanderCompass
+Team: ZexA
 
----
+Leader: Zeynep Alptekin (2320161026)
 
-### WanderCompass
+Members: 1 students
 
-- Team: ZexA
-- Leader: Zeynep Alptekin (2320161026)
-- Members: 1 students
-- GitHub: https://github.com/zeynepalptekin/WanderCompass.git
+GitHub: https://github.com/zeynepalptekin/WanderCompass.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161026	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -3347,18 +3083,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3368,11 +3098,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3383,42 +3110,38 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.lottie
-```
+TravelBuddy
+Team: CinCode
 
----
+Leader: Oğuzhan Berk Cin (2320161033)
 
-### TravelBuddy
+Members: 1 students
 
-- Team: CinCode
-- Leader: Oğuzhan Berk Cin (2320161033)
-- Members: 1 students
-- GitHub: https://github.com/OguzhanCin/TravelBuddy
+GitHub: https://github.com/OguzhanCin/TravelBuddy
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161033	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^5.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3428,11 +3151,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3443,58 +3163,82 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+├── fonts
+  Files: temp.txt
+├── icons
+  Files: temp.txt
+├── images
+  Files: temp.txt
+├── languages
+  Files: temp.txt
+├── motions
+  Files: motions.txt
+Fifteen Minutes
+Team: pulse15
 
----
+Leader: Doğukan Şahin (2320161091)
 
-### Fifteen Minutes
+Members: 1 students
 
-- Team: pulse15
-- Leader: Doğukan Şahin (2320161091)
-- Members: 1 students
-- GitHub: https://github.com/Dogukansahin24/Q-Flutter
+GitHub: https://github.com/Dogukansahin24/Q-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161091	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+FinansUp
+Team: HedefFinans
 
----
+Leader: Ömer Melih Bayram (2320161084)
 
-### FinansUp
+Members: 1 students
 
-- Team: HedefFinans
-- Leader: Ömer Melih Bayram (2320161084)
-- Members: 1 students
-- GitHub: https://github.com/omermelihbayram/FinansUp
+GitHub: https://github.com/omermelihbayram/FinansUp
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161084	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+MotocycleCatalog
+Team: dumanemir
 
----
+Leader: Emir Duman (2320161086)
 
-### MotocycleCatalog
+Members: 1 students
 
-- Team: dumanemir
-- Leader: Emir Duman (2320161086)
-- Members: 1 students
-- GitHub: https://github.com/dumanemir/Q-Flutter.git
+GitHub: https://github.com/dumanemir/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161086	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Travel Diary
+Team: TravelVolunter
 
----
+Leader: Abdullah şeker (2320161139)
 
-### Travel Diary
+Members: 1 students
 
-- Team: TravelVolunter
-- Leader: Abdullah şeker (2320161139)
-- Members: 1 students
-- GitHub: https://github.com/abdulllahseker/travel_diary1.git
+GitHub: https://github.com/abdulllahseker/travel_diary1.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161139	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 shared_preferences: ^2.3.3
@@ -3502,18 +3246,12 @@ go_router: ^14.6.2
 flutter_secure_storage: ^9.2.2
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -3523,11 +3261,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3538,25 +3273,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, siri.lottie
-```
+flex_music_flutter
+Team: S1
 
----
+Leader: Emirhan Başer (2320161111)
 
-### flex_music_flutter
+Members: 1 students
 
-- Team: S1
-- Leader: Emirhan Başer (2320161111)
-- Members: 1 students
-- GitHub: https://github.com/Emirhanbaser/flex_music_flutter
+GitHub: https://github.com/Emirhanbaser/flex_music_flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161111	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -3564,18 +3301,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -3585,51 +3316,44 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── images
   Files: logo.png
 ├── motions
   Files: loading.lottie
-```
+MeLife
+Team: Meliketech
 
----
+Leader: Melike Ersoy (2320161074)
 
-### MeLife
+Members: 1 students
 
-- Team: Meliketech
-- Leader: Melike Ersoy (2320161074)
-- Members: 1 students
-- GitHub: https://github.com/melike555/Q-Flutter.git
+GitHub: https://github.com/melike555/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161074	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 flutter: {'sdk': 'flutter'}
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3639,11 +3363,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── images
@@ -3652,36 +3373,42 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+Social-Recipes
+Team: EK-27
 
----
+Leader: Efe Kıratlı (2320161060)
 
-### Social-Recipes
+Members: 1 students
 
-- Team: EK-27
-- Leader: Efe Kıratlı (2320161060)
-- Members: 1 students
-- GitHub: https://github.com/EfeKtli/Social-recipe.git
+GitHub: https://github.com/EfeKtli/Social-recipe.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161060	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Gamer-Stash
+Team: Mertelyev
 
----
+Leader: Mert Kuruali (2320161016)
 
-### Gamer-Stash
+Members: 1 students
 
-- Team: Mertelyev
-- Leader: Mert Kuruali (2320161016)
-- Members: 1 students
-- GitHub: https://github.com/Mertelyev/Gamer-Stash
+GitHub: https://github.com/Mertelyev/Gamer-Stash
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161016	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -3689,18 +3416,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3710,11 +3431,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: Montserrat-Bold.ttf, Montserrat-Italic.ttf, Montserrat-Regular.ttf, temp.txt
 ├── icons
@@ -3725,100 +3443,95 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+Artify
+Team: Grove Street
 
----
+Leader: Hüseyin Arda Akşit (2320161119)
 
-### Artify
+Members: 3 students
 
-- Team: Grove Street
-- Leader: Hüseyin Arda Akşit (2320161119)
-- Members: 3 students
-- GitHub: https://github.com/AksitArda/Artify/
+GitHub: https://github.com/AksitArda/Artify/
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161119	N/A	0	0
+N/A	N/A	2320161113	N/A	0	0
+N/A	N/A	2320161124	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: artify
 
-- **Package Name:** artify
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: favorites.dart, home.dart, main.dart, search.dart, splash.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 Files: placeholder.png
-```
+langmatch
+Team: Şehirliler ve Cenk
 
----
+Leader: Enes Başat (2320161116)
 
-### langmatch
+Members: 3 students
 
-- Team: Şehirliler ve Cenk
-- Leader: Enes Başat (2320161116)
-- Members: 3 students
-- GitHub: https://github.com/enesbasat0/langmatch
+GitHub: https://github.com/enesbasat0/langmatch
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161116	N/A	0	0
+N/A	N/A	2320161153	N/A	0	0
+N/A	N/A	2320161093	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: langmatch
 
-- **Package Name:** langmatch
-- **Version:** 1.0.0+1
+Version: 1.0.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 go_router: ^14.6.2
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^5.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: friends.dart, main.dart, profile.dart
-```
+weather_flutter
+Team: Meteorology
 
----
+Leader: Emre Tuğrul Öyken (2320161138)
 
-### weather_flutter
+Members: 1 students
 
-- Team: Meteorology
-- Leader: Emre Tuğrul Öyken (2320161138)
-- Members: 1 students
-- GitHub: https://github.com/emreoyken/Q-Flutter.git
+GitHub: https://github.com/emreoyken/Q-Flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161138	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -3826,18 +3539,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -3847,11 +3554,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3862,25 +3566,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, q.gif, q.lottie, q2.lottie.json, users.lotie
-```
+SigorTam
+Team: SoloYolo
 
----
+Leader: Eray Özözen (2320161104)
 
-### SigorTam
+Members: 1 students
 
-- Team: SoloYolo
-- Leader: Eray Özözen (2320161104)
-- Members: 1 students
-- GitHub: https://github.com/ErayOzozen/Q-Flutter
+GitHub: https://github.com/ErayOzozen/Q-Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161104	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
@@ -3888,18 +3594,12 @@ go_router: ^14.6.1
 shared_preferences: ^2.3.3
 dotlottie_loader: ^0.0.4
 lottie: ^3.1.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -3909,11 +3609,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3924,43 +3621,39 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, loadingg.lottie, motions.txt
-```
+MemLock
+Team: One Piece
 
----
+Leader: Şeyma Sakoğlu (2320161034)
 
-### MemLock
+Members: 1 students
 
-- Team: One Piece
-- Leader: Şeyma Sakoğlu (2320161034)
-- Members: 1 students
-- GitHub: https://github.com/SeymaSakoglu/MemLock_flutter.git
+GitHub: https://github.com/SeymaSakoglu/MemLock_flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161034	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: memlock_flutter
 
-- **Package Name:** memlock_flutter
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 go_router: ^14.6.1
 shared_preferences: ^2.3.3
 lottie: ^2.3.2
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: contants.dart, routes.dart, storage.dart, themes.dart
@@ -3970,11 +3663,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -3985,42 +3675,39 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, motions.txt, photo.lottie
-```
+Trendify
+Team: Friedhof
 
----
+Leader: Efe Gücüyeter (2320161039)
 
-### Trendify
+Members: 2 students
 
-- Team: Friedhof
-- Leader: Efe Gücüyeter (2320161039)
-- Members: 2 students
-- GitHub: https://github.com/efegucuyeter/Flutter-Trendify
+GitHub: https://github.com/efegucuyeter/Flutter-Trendify
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161039	N/A	0	0
+N/A	N/A	2320161027	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^2.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -4030,42 +3717,39 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Flutter-Sptynss
+Team: Mardided
 
----
+Leader: Muhammed Talha Güleryüz (2320161045)
 
-### Flutter-Sptynss
+Members: 2 students
 
-- Team: Mardided
-- Leader: Muhammed Talha Güleryüz (2320161045)
-- Members: 2 students
-- GitHub: https://github.com/TalhaGuer/Flutter-Sptynss
+GitHub: https://github.com/TalhaGuer/Flutter-Sptynss
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161045	N/A	0	0
+N/A	N/A	2320161055	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0+1
+Version: 0.1.0+1
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 flutter: {'sdk': 'flutter'}
 cupertino_icons: ^1.0.8
 flutter_secure_storage: ^9.2.2
 shared_preferences: ^2.3.3
 go_router: ^14.6.1
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: routes.dart, storage.dart, themes.dart
@@ -4077,11 +3761,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -4092,25 +3773,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: motions.txt
-```
+AutoCare
+Team: apocanonthetrack
 
----
+Leader: Alperen Can (2320161117)
 
-### AutoCare
+Members: 1 students
 
-- Team: apocanonthetrack
-- Leader: Alperen Can (2320161117)
-- Members: 1 students
-- GitHub: https://github.com/AlperenlCan/AutoCare
+GitHub: https://github.com/AlperenlCan/AutoCare
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161117	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -4118,18 +3801,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, theme.dart
@@ -4139,11 +3816,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── images
@@ -4152,25 +3826,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: a.lottie, loading.lottie, s.lottie, temp.txt
-```
+GameLog
+Team: Starsoftware
 
----
+Leader: Eray Remzi Yıldız (2320161103)
 
-### GameLog
+Members: 1 students
 
-- Team: Starsoftware
-- Leader: Eray Remzi Yıldız (2320161103)
-- Members: 1 students
-- GitHub: https://github.com/Lenuxxlacc/GameLog_flutter.git
+GitHub: https://github.com/Lenuxxlacc/GameLog_flutter.git
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161103	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -4178,18 +3854,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.2
 lottie: ^3.1.3
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, material.dart, routes.dart, storage.dart, themes.dart
@@ -4199,11 +3869,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── images
@@ -4212,25 +3879,27 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: loading.lottie, mic.lottie, motions.txt
-```
+Fırsatlar Cepte Mobil App
+Team: Coolisar Code
 
----
+Leader: Muhammet Özmen (2320161128)
 
-### Fırsatlar Cepte Mobil App
+Members: 1 students
 
-- Team: Coolisar Code
-- Leader: Muhammet Özmen (2320161128)
-- Members: 1 students
-- GitHub: https://github.com/Mamio0/FirsatlarCepte_Flutter
+GitHub: https://github.com/Mamio0/FirsatlarCepte_Flutter
 
-#### Flutter Project Analysis
+Contributors
+Username	Full Name	Student Number	GitHub Profile	Commits	Lines of Code
+N/A	N/A	2320161128	N/A	0	0
+Todo List
+Task	Description	Assigned To	Deadline	Status
+Flutter Project Analysis
+Package Name: flutter_app
 
-- **Package Name:** flutter_app
-- **Version:** 0.1.0
+Version: 0.1.0
 
-**Dependencies:**
+Dependencies:
 
-```yaml
 cupertino_icons: ^1.0.8
 dotlottie_loader: ^0.0.4
 flutter: {'sdk': 'flutter'}
@@ -4238,18 +3907,12 @@ flutter_secure_storage: ^9.2.2
 go_router: ^14.6.1
 lottie: ^3.2.0
 shared_preferences: ^2.3.3
-```
+Dev Dependencies:
 
-**Dev Dependencies:**
-
-```yaml
 flutter_test: {'sdk': 'flutter'}
 flutter_lints: ^4.0.0
-```
+Lib Structure:
 
-**Lib Structure:**
-
-```
 Files: main.dart
 ├── core
   Files: constants.dart, routes.dart, storage.dart, themes.dart
@@ -4259,11 +3922,8 @@ Files: main.dart
   Files: api.dart
 ├── widgets
   Files: bottom_menu.dart, logo.dart
-```
+Assets Structure:
 
-**Assets Structure:**
-
-```
 ├── fonts
   Files: temp.txt
 ├── icons
@@ -4274,44 +3934,38 @@ Files: main.dart
   Files: temp.txt
 ├── motions
   Files: fırsat.lottie, motions.txt
-```
-
----
-
-## Students Without Project Assignments
-
-| Student No | Name                    | Program                       | Class |
-| ---------- | ----------------------- | ----------------------------- | ----- |
-| 211216032  | DENİZ BERKE AKSOY       | Bilgisayar Programcılığı      | 2     |
-| 212016700  | NİSANUR MERAL           | Bilgisayar Programcılığı (İÖ) | 2     |
-| 221216053  | YUSUF CAN ÇELİK         | Bilgisayar Programcılığı      | 2     |
-| 221216083  | ERAY GÖKÇE              | Bilgisayar Programcılığı      | 2     |
-| 222016701  | MUSA EROL               | Bilgisayar Programcılığı (İÖ) | 2     |
-| 222016705  | CİHAN ALTAN             | Bilgisayar Programcılığı (İÖ) | 2     |
-| 222016706  | RECEP ÜNALAN            | Bilgisayar Programcılığı (İÖ) | 2     |
-| 222016749  | EMRE KUŞ                | Bilgisayar Programcılığı (İÖ) | 2     |
-| 222016766  | MÜMİN KAYACI            | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161003 | ERVA EFE DALBAY         | Bilgisayar Programcılığı      | 2     |
-| 2320161005 | BATUHAN EMİN AKTAŞ      | Bilgisayar Programcılığı      | 2     |
-| 2320161007 | MUSTAFA TALHA ÇOLAKOĞLU | Bilgisayar Programcılığı      | 2     |
-| 2320161017 | MUSTAFA CANBAY          | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161019 | EMİRHAN KALAM           | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161021 | FURKAN GÖNDER           | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161028 | METE SELİM İSPİRLİ      | Bilgisayar Programcılığı      | 2     |
-| 2320161032 | DOĞAN YILMAZ            | Bilgisayar Programcılığı      | 2     |
-| 2320161044 | SEVİNÇ YARDIM           | Bilgisayar Programcılığı      | 2     |
-| 2320161054 | BERNA AKSAK             | Bilgisayar Programcılığı      | 2     |
-| 2320161059 | DENİZ YILMAZ            | Bilgisayar Programcılığı      | 2     |
-| 2320161062 | ABDULLAH İSİYEL         | Bilgisayar Programcılığı      | 2     |
-| 2320161064 | ABDULLAHCAN ÇOŞKUN      | Bilgisayar Programcılığı      | 2     |
-| 2320161069 | HAKAN AYDIN             | Bilgisayar Programcılığı      | 2     |
-| 2320161072 | ÖMER ERSAN              | Bilgisayar Programcılığı      | 2     |
-| 2320161092 | EMİRHAN BEŞİKCİ         | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161094 | AHMET BARAN AĞKÜL       | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161099 | EGEMEN YAKUP ÖZDEMİR    | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161120 | ERTUĞRUL ERTÜRK         | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161123 | BEYZA FATMA AKKILIÇ     | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161129 | HİDAYET ULUSAL          | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161133 | SEVİM SAVAŞ             | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161141 | UTKU KAHRAMAN           | Bilgisayar Programcılığı (İÖ) | 2     |
-| 2320161145 | EMRE FARUK KARANLI      | Bilgisayar Programcılığı (İÖ) | 2     |
+Students Without Project Assignments
+Student No	Name	Program	Class
+211216032	DENİZ BERKE AKSOY	Bilgisayar Programcılığı	2
+212016700	NİSANUR MERAL	Bilgisayar Programcılığı (İÖ)	2
+221216053	YUSUF CAN ÇELİK	Bilgisayar Programcılığı	2
+221216083	ERAY GÖKÇE	Bilgisayar Programcılığı	2
+222016701	MUSA EROL	Bilgisayar Programcılığı (İÖ)	2
+222016705	CİHAN ALTAN	Bilgisayar Programcılığı (İÖ)	2
+222016706	RECEP ÜNALAN	Bilgisayar Programcılığı (İÖ)	2
+222016749	EMRE KUŞ	Bilgisayar Programcılığı (İÖ)	2
+222016766	MÜMİN KAYACI	Bilgisayar Programcılığı (İÖ)	2
+2320161003	ERVA EFE DALBAY	Bilgisayar Programcılığı	2
+2320161005	BATUHAN EMİN AKTAŞ	Bilgisayar Programcılığı	2
+2320161007	MUSTAFA TALHA ÇOLAKOĞLU	Bilgisayar Programcılığı	2
+2320161017	MUSTAFA CANBAY	Bilgisayar Programcılığı (İÖ)	2
+2320161019	EMİRHAN KALAM	Bilgisayar Programcılığı (İÖ)	2
+2320161021	FURKAN GÖNDER	Bilgisayar Programcılığı (İÖ)	2
+2320161028	METE SELİM İSPİRLİ	Bilgisayar Programcılığı	2
+2320161032	DOĞAN YILMAZ	Bilgisayar Programcılığı	2
+2320161044	SEVİNÇ YARDIM	Bilgisayar Programcılığı	2
+2320161054	BERNA AKSAK	Bilgisayar Programcılığı	2
+2320161059	DENİZ YILMAZ	Bilgisayar Programcılığı	2
+2320161062	ABDULLAH İSİYEL	Bilgisayar Programcılığı	2
+2320161064	ABDULLAHCAN ÇOŞKUN	Bilgisayar Programcılığı	2
+2320161069	HAKAN AYDIN	Bilgisayar Programcılığı	2
+2320161072	ÖMER ERSAN	Bilgisayar Programcılığı	2
+2320161092	EMİRHAN BEŞİKCİ	Bilgisayar Programcılığı (İÖ)	2
+2320161094	AHMET BARAN AĞKÜL	Bilgisayar Programcılığı (İÖ)	2
+2320161099	EGEMEN YAKUP ÖZDEMİR	Bilgisayar Programcılığı (İÖ)	2
+2320161120	ERTUĞRUL ERTÜRK	Bilgisayar Programcılığı (İÖ)	2
+2320161123	BEYZA FATMA AKKILIÇ	Bilgisayar Programcılığı (İÖ)	2
+2320161129	HİDAYET ULUSAL	Bilgisayar Programcılığı (İÖ)	2
+2320161133	SEVİM SAVAŞ	Bilgisayar Programcılığı (İÖ)	2
+2320161141	UTKU KAHRAMAN	Bilgisayar Programcılığı (İÖ)	2
+2320161145	EMRE FARUK KARANLI	Bilgisayar Programcılığı (İÖ)	2
