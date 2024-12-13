@@ -1,11 +1,11 @@
 # Student Projects Analysis Report
 
-Generated on: 2024-12-13 15:08:26
+Generated on: 2024-12-13 15:29:42
 
 ## Summary Statistics
 
 - Total number of students in Excel: 142
-- Total number of projects: 89
+- Total number of projects: 90
 - Number of students without projects: 32
 - Number of project students not found in Excel: 0
 - Project participation rate: 77.46%
@@ -25,6 +25,26 @@ Generated on: 2024-12-13 15:08:26
 | ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
 | yunusegriboz | YUNUS EĞRİBOZ | 2320161029     | https://github.com/yunusegriboz | -       | -             |
 | Atakan75     | ATAKAN ŞİMDİ  | 2320161085     | https://github.com/Atakan75     | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -102,6 +122,26 @@ Files: main.dart
 | ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
 | firdevsuzun | FİRDEVS UZUN | 2320161009     | https://github.com/firdevsuzun | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -166,6 +206,26 @@ Files: main.dart
 | omerfaruk-yildiz | ÖMER FARUK YILDIZ | 2320161043     | https://github.com/omerfaruk-yildiz | -       | -             |
 | BatuRoyale05     | BATUHAN DEMİR     | 2320161058     | https://github.com/BatuRoyale05     | -       | -             |
 | enes986          | ENES ÖZGENÇ       | 2320161013     | https://github.com/enes986          | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -237,6 +297,26 @@ Files: main.dart
 | Username        | Full Name        | Student Number | GitHub Profile                     | Commits | Lines of Code |
 | --------------- | ---------------- | -------------- | ---------------------------------- | ------- | ------------- |
 | batuhanyeniocak | BATUHAN YENİOCAK | 211216066      | https://github.com/batuhanyeniocak | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -313,6 +393,26 @@ Files: main.dart
 | ----------- | ------------- | -------------- | ------------------------------ | ------- | ------------- |
 | nidanurkose | NİDA NUR KÖSE | 2320161101     | https://github.com/nidanurkose | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -386,6 +486,26 @@ Files: main.dart
 | -------- | --------------- | -------------- | -------------------------- | ------- | ------------- |
 | tollgaa  | TOLGA MURAT TOR | 2320161107     | https://github.com/tollgaa | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -458,6 +578,26 @@ Files: main.dart
 | Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
 | Berkeduzgun | BERKE DÜZGÜN | 221216085      | https://github.com/Berkeduzgun | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -536,6 +676,26 @@ Files: main.dart
 | cenkaydinn    | CENK AYDIN       | 2320161153     | https://github.com/cenkaydinn    | -       | -             |
 | yusuforhan000 | YUSUF TAHA ORHAN | 2320161154     | https://github.com/yusuforhan000 | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -557,6 +717,26 @@ Files: main.dart
 | Username        | Full Name | Student Number | GitHub Profile                     | Commits | Lines of Code |
 | --------------- | --------- | -------------- | ---------------------------------- | ------- | ------------- |
 | ereninpenceresi | EREN EKER | 2320161078     | https://github.com/ereninpenceresi | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -631,6 +811,26 @@ Files: main.dart
 | ---------- | ------------ | -------------- | ----------------------------- | ------- | ------------- |
 | efecangenc | EFE CAN GENÇ | 222016722      | https://github.com/efecangenc | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -652,6 +852,26 @@ Files: main.dart
 | Username      | Full Name    | Student Number | GitHub Profile                   | Commits | Lines of Code |
 | ------------- | ------------ | -------------- | -------------------------------- | ------- | ------------- |
 | ferhatbolat19 | FERHAT BOLAT | 2320161082     | https://github.com/ferhatbolat19 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -703,6 +923,26 @@ Files: main.dart
 | Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
 | ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
 | furkanturgut | FURKAN TURĞUT | 2320161127     | https://github.com/furkanturgut | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -778,6 +1018,26 @@ Files: main.dart
 | ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
 | dilaradertli | DİLARA DERTLİ | 2320161022     | https://github.com/dilaradertli | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -851,6 +1111,26 @@ Files: main.dart
 | ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
 | rabiadundar | RABİA DÜNDAR | 2320161015     | https://github.com/rabiadundar | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -872,6 +1152,26 @@ Files: main.dart
 | Username | Full Name      | Student Number | GitHub Profile            | Commits | Lines of Code |
 | -------- | -------------- | -------------- | ------------------------- | ------- | ------------- |
 | Emmir5   | EMİR EFE KILIÇ | 221216069      | https://github.com/Emmir5 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -896,6 +1196,26 @@ Files: main.dart
 | hakanyargici | YUSUF HAKAN YARGICI | 2320161118     | https://github.com/hakanyargici | -       | -             |
 | Ramiko2      | RABİYA TANBAŞ       | 2320161132     | https://github.com/Ramiko2      | -       | -             |
 | R3ceps       | RECEP ŞAHİN         | 2320161109     | https://github.com/R3ceps       | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -956,6 +1276,26 @@ Files: WanderWise.png, bali.jpg, paris.jpg, sliderimage1.jpg, sliderimage2.jpg, 
 | MrTann      | EREN TAN              | 2320161024     | https://github.com/MrTann      | -       | -             |
 | mrserin20   | MAHMUT SERİN          | 2320161038     | https://github.com/mrserin20   | -       | -             |
 | eminkiroglu | MUHAMMED EMİN KIROĞLU | 2320161077     | https://github.com/eminkiroglu | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1028,6 +1368,26 @@ Files: main.dart
 | ------------ | --------------- | -------------- | ------------------------------- | ------- | ------------- |
 | alperbyrktrr | ALPER BAYRAKTAR | 2320161100     | https://github.com/alperbyrktrr | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -1098,6 +1458,26 @@ Files: main.dart
 | Username         | Full Name         | Student Number | GitHub Profile                      | Commits | Lines of Code |
 | ---------------- | ----------------- | -------------- | ----------------------------------- | ------- | ------------- |
 | zehranurkaraogul | ZEHRANUR KARAOĞUL | 2320161031     | https://github.com/zehranurkaraogul | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1171,6 +1551,26 @@ Files: main.dart
 | Username    | Full Name  | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | ---------- | -------------- | ------------------------------ | ------- | ------------- |
 | umutbaris00 | UMUT BARIŞ | 2320161090     | https://github.com/umutbaris00 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1248,6 +1648,26 @@ Files: main.dart
 | ------------ | ------------ | -------------- | ------------------------------- | ------- | ------------- |
 | fatmaakaplan | FATMA KAPLAN | 2320161035     | https://github.com/fatmaakaplan | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -1324,6 +1744,26 @@ Files: main.dart
 | ---------- | ---------- | -------------- | ----------------------------- | ------- | ------------- |
 | onuraltnxd | ONUR ALTUN | 2320161051     | https://github.com/onuraltnxd | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -1378,6 +1818,26 @@ Files: main.dart
 | Username | Full Name   | Student Number | GitHub Profile              | Commits | Lines of Code |
 | -------- | ----------- | -------------- | --------------------------- | ------- | ------------- |
 | esralkya | ESRA ALKAYA | 2320161087     | https://github.com/esralkya | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1451,6 +1911,26 @@ Files: main.dart, tarif_detay.dart
 | Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
 | KeremAgiroz | KEREM AĞIRÖZ | 2320161057     | https://github.com/KeremAgiroz | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1526,6 +2006,26 @@ Files: main.dart
 | ------------- | ------------------- | -------------- | -------------------------------- | ------- | ------------- |
 | zeynepsudeakb | ZEYNEP SUDE AKBULUT | 2320161081     | https://github.com/zeynepsudeakb | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -1547,6 +2047,26 @@ Files: main.dart
 | Username    | Full Name       | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | --------------- | -------------- | ------------------------------ | ------- | ------------- |
 | aliriza1926 | ALİ RIZA ZENGİN | 2320161151     | https://github.com/aliriza1926 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1613,6 +2133,26 @@ Files: temp.txt
 | Username | Full Name    | Student Number | GitHub Profile              | Commits | Lines of Code |
 | -------- | ------------ | -------------- | --------------------------- | ------- | ------------- |
 | Matttiuz | MUSTAFA KAYA | 2320161046     | https://github.com/Matttiuz | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1691,6 +2231,26 @@ Files: main.dart
 | ------------- | -------------- | -------------- | -------------------------------- | ------- | ------------- |
 | anilpomakoglu | ANIL POMAKOĞLU | 2320161108     | https://github.com/anilpomakoglu | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -1712,6 +2272,26 @@ Files: main.dart
 | Username    | Full Name          | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | ------------------ | -------------- | ------------------------------ | ------- | ------------- |
 | Baransaltan | AYDIN BARAN SALTAN | 2320161095     | https://github.com/Baransaltan | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1786,6 +2366,26 @@ Files: main.dart
 | EmreEviren | EMRE EVİREN           | 2320161083     | https://github.com/EmreEviren | -       | -             |
 | donmez44   | ABDULLAH SAMED DÖNMEZ | 2320161148     | https://github.com/donmez44   | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -1858,6 +2458,26 @@ Files: main.dart
 | Username       | Full Name       | Student Number | GitHub Profile                    | Commits | Lines of Code |
 | -------------- | --------------- | -------------- | --------------------------------- | ------- | ------------- |
 | zeynepalptekin | ZEYNEP ALPTEKİN | 2320161026     | https://github.com/zeynepalptekin | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -1932,6 +2552,26 @@ Files: main.dart
 | --------------- | -------------------- | -------------- | ---------------------------------- | ------- | ------------- |
 | baransoylemez49 | YUSUF BARAN SÖYLEMEZ | 2320161075     | https://github.com/baransoylemez49 | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -1953,6 +2593,26 @@ Files: main.dart
 | Username  | Full Name       | Student Number | GitHub Profile               | Commits | Lines of Code |
 | --------- | --------------- | -------------- | ---------------------------- | ------- | ------------- |
 | endikol88 | AHMET EMRE KARA | 2320161155     | https://github.com/endikol88 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2025,6 +2685,26 @@ Files: main.dart
 | Username         | Full Name                  | Student Number | GitHub Profile                      | Commits | Lines of Code |
 | ---------------- | -------------------------- | -------------- | ----------------------------------- | ------- | ------------- |
 | DogukanTellioglu | MUHAMMET DOĞUKAN TELLİOĞLU | 2320161023     | https://github.com/DogukanTellioglu | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2099,6 +2779,26 @@ Files: main.dart
 | -------- | ---------- | -------------- | -------------------------- | ------- | ------------- |
 | Emir811  | EMİRCAN ER | 2320161159     | https://github.com/Emir811 | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2171,6 +2871,26 @@ Files: main.dart
 | Username       | Full Name     | Student Number | GitHub Profile                    | Commits | Lines of Code |
 | -------------- | ------------- | -------------- | --------------------------------- | ------- | ------------- |
 | acimasizburger | ALPEREN TURAN | 2320161008     | https://github.com/acimasizburger | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2245,6 +2965,26 @@ Files: main.dart
 | --------- | ------------------ | -------------- | ---------------------------- | ------- | ------------- |
 | NsAshrafi | NAFISEH ASHRAFISIS | 2320165060     | https://github.com/NsAshrafi | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2300,6 +3040,26 @@ Files: main.dart
 | --------- | ------------- | -------------- | ---------------------------- | ------- | ------------- |
 | BulutKrks | BULUT KARAKUŞ | 2320161025     | https://github.com/BulutKrks | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2322,6 +3082,26 @@ Files: main.dart
 | -------- | ----------- | -------------- | -------------------------- | ------- | ------------- |
 | Demir-7  | FATİH DEMİR | 2320161079     | https://github.com/Demir-7 | -       | -             |
 | AnilD-8  | ANIL DURSUN | 2320161010     | https://github.com/AnilD-8 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2395,6 +3175,26 @@ Files: main.dart
 | Username     | Full Name    | Student Number | GitHub Profile                  | Commits | Lines of Code |
 | ------------ | ------------ | -------------- | ------------------------------- | ------- | ------------- |
 | whaticecelik | HATİCE ÇELİK | 2320161011     | https://github.com/whaticecelik | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2471,6 +3271,26 @@ Files: main.dart
 | -------- | --------- | -------------- | --------------------------- | ------- | ------------- |
 | tariklus | TARIK LUŞ | 221216043      | https://github.com/tariklus | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2543,6 +3363,26 @@ Files: main.dart
 | Username      | Full Name    | Student Number | GitHub Profile                   | Commits | Lines of Code |
 | ------------- | ------------ | -------------- | -------------------------------- | ------- | ------------- |
 | EnginOzturk-7 | ENGİN ÖZTÜRK | 2320161071     | https://github.com/EnginOzturk-7 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2619,6 +3459,26 @@ Files: main.dart
 | ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
 | sumeyyekazan | SÜMEYYE KAZAN | 2320161006     | https://github.com/sumeyyekazan | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2640,6 +3500,26 @@ Files: main.dart
 | Username    | Full Name   | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | ----------- | -------------- | ------------------------------ | ------- | ------------- |
 | erenturhan1 | EREN TURHAN | 2320161037     | https://github.com/erenturhan1 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2664,6 +3544,26 @@ Files: main.dart
 | alibrkklyc | ALİ BERK KALAYCI | 2320161050     | https://github.com/alibrkklyc | -       | -             |
 | ilkerdrtsk | İLKER DÖRTIŞIK   | 2320161080     | https://github.com/ilkerdrtsk | -       | -             |
 | ardatunayy | ARDA TUNAY       | 2320161067     | https://github.com/ardatunayy | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2740,6 +3640,26 @@ Files: main.dart
 | ---------- | ------------ | -------------- | ----------------------------- | ------- | ------------- |
 | ensozdemir | ENES ÖZDEMİR | 2320161106     | https://github.com/ensozdemir | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2813,6 +3733,26 @@ Files: main.dart
 | --------------- | ----------------- | -------------- | ---------------------------------- | ------- | ------------- |
 | omermelihbayram | ÖMER MELİH BAYRAM | 2320161084     | https://github.com/omermelihbayram | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2834,6 +3774,26 @@ Files: main.dart
 | Username  | Full Name    | Student Number | GitHub Profile               | Commits | Lines of Code |
 | --------- | ------------ | -------------- | ---------------------------- | ------- | ------------- |
 | 0zanozdmr | OZAN ÖZDEMİR | 2320161041     | https://github.com/0zanozdmr | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -2910,6 +3870,26 @@ Files: main.dart
 | ----------- | -------------- | -------------- | ------------------------------ | ------- | ------------- |
 | Tarikusta52 | TARIK USTAOĞLU | 2320161114     | https://github.com/Tarikusta52 | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -2931,6 +3911,26 @@ Files: main.dart
 | Username  | Full Name                | Student Number | GitHub Profile               | Commits | Lines of Code |
 | --------- | ------------------------ | -------------- | ---------------------------- | ------- | ------------- |
 | BrieflyMR | MUHAMMED MİRAÇ TURATUTUK | 2320161149     | https://github.com/BrieflyMR | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3009,6 +4009,26 @@ Files: main.dart
 | codewoman34   | EDANUR TABU         | 2320161144     | https://github.com/codewoman34   | -       | -             |
 | mertcelikt    | MUHAMMET MERT ÇELİK | 2320161147     | https://github.com/mertcelikt    | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3077,6 +4097,26 @@ Files: main.dart
 | Username       | Full Name     | Student Number | GitHub Profile                    | Commits | Lines of Code |
 | -------------- | ------------- | -------------- | --------------------------------- | ------- | ------------- |
 | Gorkemarslan57 | GÖRKEM ARSLAN | 2320161068     | https://github.com/Gorkemarslan57 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3152,6 +4192,26 @@ Files: main.dart
 | ------------- | -------------- | -------------- | -------------------------------- | ------- | ------------- |
 | onurguzelordu | ONUR GÜZELORDU | 2320161089     | https://github.com/onurguzelordu | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3222,6 +4282,26 @@ Files: main.dart
 | Username      | Full Name     | Student Number | GitHub Profile                   | Commits | Lines of Code |
 | ------------- | ------------- | -------------- | -------------------------------- | ------- | ------------- |
 | berrinyiilmaz | BERRİN YILMAZ | 2320161121     | https://github.com/berrinyiilmaz | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3296,6 +4376,26 @@ Files: main.dart
 | --------- | ------------ | -------------- | ---------------------------- | ------- | ------------- |
 | ilhandzgn | İLHAN DÜZGÜN | 2320161097     | https://github.com/ilhandzgn | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3369,6 +4469,26 @@ Files: main.dart
 | ------------- | -------------- | -------------- | -------------------------------- | ------- | ------------- |
 | EnesSinanoglu | ENES SİNANOĞLU | 2320161052     | https://github.com/EnesSinanoglu | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3390,6 +4510,26 @@ Files: main.dart
 | Username   | Full Name            | Student Number | GitHub Profile                | Commits | Lines of Code |
 | ---------- | -------------------- | -------------- | ----------------------------- | ------- | ------------- |
 | Topraktino | TOPRAK EGEMEN COŞKUN | 2320161040     | https://github.com/Topraktino | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3466,6 +4606,26 @@ Files: main.dart
 | ---------- | ----------- | -------------- | ----------------------------- | ------- | ------------- |
 | betulalkan | BETÜL ALKAN | 2320161066     | https://github.com/betulalkan | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3487,6 +4647,26 @@ Files: main.dart
 | Username    | Full Name   | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | ----------- | -------------- | ------------------------------ | ------- | ------------- |
 | mervecetiin | MERVE ÇETİN | 2320161061     | https://github.com/mervecetiin | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3560,6 +4740,26 @@ Files: main.dart
 | Username       | Full Name             | Student Number | GitHub Profile                    | Commits | Lines of Code |
 | -------------- | --------------------- | -------------- | --------------------------------- | ------- | ------------- |
 | nilaykarabudak | NİLAY ZEHRA KARABUDAK | 2320161042     | https://github.com/nilaykarabudak | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3636,6 +4836,26 @@ Files: main.dart
 | Emirhanbgdyc     | EMİRHAN BUĞDAYCI  | 2320161112     | https://github.com/Emirhanbgdyc     | -       | -             |
 | Emirbulutt       | EMİR BULUT        | 2320161105     | https://github.com/Emirbulutt       | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3711,6 +4931,26 @@ Files: main.dart
 | ------------- | ------------- | -------------- | -------------------------------- | ------- | ------------- |
 | Aysegul-Bulut | AYŞEGÜL BULUT | 2320161143     | https://github.com/Aysegul-Bulut | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3732,6 +4972,26 @@ Files: main.dart
 | Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
 | ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
 | TarikKaravar | TARIK KARAVAR | 2320161162     | https://github.com/TarikKaravar | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3800,6 +5060,26 @@ Files: main.dart
 | ---------- | --------------- | -------------- | ----------------------------- | ------- | ------------- |
 | serhatdgrl | SERHAT DOĞRUYOL | 2320161065     | https://github.com/serhatdgrl | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3821,6 +5101,26 @@ Files: main.dart
 | Username       | Full Name      | Student Number | GitHub Profile                    | Commits | Lines of Code |
 | -------------- | -------------- | -------------- | --------------------------------- | ------- | ------------- |
 | KaanKaracayirr | KAAN KARAÇAYIR | 2320161110     | https://github.com/KaanKaracayirr | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -3896,6 +5196,26 @@ Files: main.dart
 | bgmyurttabir | BEGÜM YURTTABİR | 2320161122     | https://github.com/bgmyurttabir | -       | -             |
 | Erenbydar    | EREN BAYDAR     | 2320161135     | https://github.com/Erenbydar    | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -3965,6 +5285,26 @@ Files: main.dart
 | -------------- | --------------- | -------------- | --------------------------------- | ------- | ------------- |
 | bugrakasapoglu | BUĞRA KASAPOĞLU | 2320161088     | https://github.com/bugrakasapoglu | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4032,6 +5372,26 @@ Files: main.dart
 | Username           | Full Name            | Student Number | GitHub Profile                        | Commits | Lines of Code |
 | ------------------ | -------------------- | -------------- | ------------------------------------- | ------- | ------------- |
 | MehmetSukruIldemir | MEHMET ŞÜKRÜ İLDEMİR | 211216003      | https://github.com/MehmetSukruIldemir | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4103,6 +5463,26 @@ Files: main.dart
 | Username       | Full Name       | Student Number | GitHub Profile                    | Commits | Lines of Code |
 | -------------- | --------------- | -------------- | --------------------------------- | ------- | ------------- |
 | zeynepalptekin | ZEYNEP ALPTEKİN | 2320161026     | https://github.com/zeynepalptekin | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4177,6 +5557,26 @@ Files: main.dart
 | ---------- | ---------------- | -------------- | ----------------------------- | ------- | ------------- |
 | OguzhanCin | OĞUZHAN BERK CİN | 2320161033     | https://github.com/OguzhanCin | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4248,6 +5648,26 @@ Files: main.dart
 | -------------- | ------------- | -------------- | --------------------------------- | ------- | ------------- |
 | Dogukansahin24 | DOĞUKAN ŞAHİN | 2320161091     | https://github.com/Dogukansahin24 | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4269,6 +5689,26 @@ Files: main.dart
 | Username        | Full Name         | Student Number | GitHub Profile                     | Commits | Lines of Code |
 | --------------- | ----------------- | -------------- | ---------------------------------- | ------- | ------------- |
 | omermelihbayram | ÖMER MELİH BAYRAM | 2320161084     | https://github.com/omermelihbayram | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4292,6 +5732,26 @@ Files: main.dart
 | --------- | ---------- | -------------- | ---------------------------- | ------- | ------------- |
 | dumanemir | EMİR DUMAN | 2320161086     | https://github.com/dumanemir | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4313,6 +5773,26 @@ Files: main.dart
 | Username       | Full Name      | Student Number | GitHub Profile                    | Commits | Lines of Code |
 | -------------- | -------------- | -------------- | --------------------------------- | ------- | ------------- |
 | abdulllahseker | ABDULLAH ŞEKER | 2320161139     | https://github.com/abdulllahseker | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4387,6 +5867,26 @@ Files: main.dart
 | ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
 | Emirhanbaser | EMİRHAN BAŞER | 2320161111     | https://github.com/Emirhanbaser | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4453,6 +5953,26 @@ Files: main.dart
 | Username    | Full Name    | Student Number | GitHub Profile                 | Commits | Lines of Code |
 | ----------- | ------------ | -------------- | ------------------------------ | ------- | ------------- |
 | Melikeersoy | MELİKE ERSOY | 2320161074     | https://github.com/Melikeersoy | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4523,6 +6043,26 @@ Files: main.dart
 | -------- | ----------- | -------------- | -------------------------- | ------- | ------------- |
 | EfeKtli  | EFE KIRATLI | 2320161060     | https://github.com/EfeKtli | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4544,6 +6084,26 @@ Files: main.dart
 | Username  | Full Name    | Student Number | GitHub Profile               | Commits | Lines of Code |
 | --------- | ------------ | -------------- | ---------------------------- | ------- | ------------- |
 | Mertelyev | MERT KURUALİ | 2320161016     | https://github.com/Mertelyev | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4620,6 +6180,26 @@ Files: main.dart
 | efecakmakci | EFE ÇAKMAKCI       | 2320161113     | https://github.com/efecakmakci | -       | -             |
 | ernkya      | EREN KAYA          | 2320161124     | https://github.com/ernkya      | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4673,6 +6253,26 @@ Files: placeholder.png
 | cenkaydinn | CENK AYDIN | 2320161153     | https://github.com/cenkaydinn | -       | -             |
 | oguzcavuss | OĞUZ ÇAVUŞ | 2320161093     | https://github.com/oguzcavuss | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4718,6 +6318,26 @@ Files: friends.dart, main.dart, profile.dart
 | Username  | Full Name         | Student Number | GitHub Profile               | Commits | Lines of Code |
 | --------- | ----------------- | -------------- | ---------------------------- | ------- | ------------- |
 | emreoyken | EMRE TUĞRUL ÖYKEN | 2320161138     | https://github.com/emreoyken | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4792,6 +6412,26 @@ Files: main.dart
 | ---------- | ----------- | -------------- | ----------------------------- | ------- | ------------- |
 | ErayOzozen | ERAY ÖZÖZEN | 2320161104     | https://github.com/ErayOzozen | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4864,6 +6504,26 @@ Files: main.dart
 | Username     | Full Name     | Student Number | GitHub Profile                  | Commits | Lines of Code |
 | ------------ | ------------- | -------------- | ------------------------------- | ------- | ------------- |
 | SeymaSakoglu | ŞEYMA SAKOĞLU | 2320161034     | https://github.com/SeymaSakoglu | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -4938,6 +6598,26 @@ Files: main.dart
 | efegucuyeter        | EFE GÜCÜYETER | 2320161039     | https://github.com/efegucuyeter        | -       | -             |
 | aybarsakbabaspecial | AYBARS AKBABA | 2320161027     | https://github.com/aybarsakbabaspecial | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -4994,6 +6674,26 @@ Files: main.dart
 | ----------- | ----------------------- | -------------- | ------------------------------ | ------- | ------------- |
 | TalhaGuer   | MUHAMMED TALHA GÜLERYÜZ | 2320161045     | https://github.com/TalhaGuer   | -       | -             |
 | omercirak28 | ÖMER ÇIRAK              | 2320161055     | https://github.com/omercirak28 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -5068,6 +6768,26 @@ Files: main.dart
 | ----------- | ----------- | -------------- | ------------------------------ | ------- | ------------- |
 | AlperenlCan | ALPEREN CAN | 2320161117     | https://github.com/AlperenlCan | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -5139,6 +6859,26 @@ Files: main.dart
 | ---------- | ----------------- | -------------- | ----------------------------- | ------- | ------------- |
 | Lenuxxlacc | ERAY REMZİ YILDIZ | 2320161103     | https://github.com/Lenuxxlacc | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -5209,6 +6949,26 @@ Files: main.dart
 | Username | Full Name      | Student Number | GitHub Profile            | Commits | Lines of Code |
 | -------- | -------------- | -------------- | ------------------------- | ------- | ------------- |
 | Mamio0   | MUHAMMET ÖZMEN | 2320161128     | https://github.com/Mamio0 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
 
 #### Todo List
 
@@ -5283,6 +7043,26 @@ Files: main.dart
 | --------- | --------------- | -------------- | ---------------------------- | ------- | ------------- |
 | efedalbay | ERVA EFE DALBAY | 2320161003     | https://github.com/efedalbay | -       | -             |
 
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
 #### Todo List
 
 | Task | Description | Assigned To | Deadline | Status |
@@ -5334,6 +7114,77 @@ Files: main.dart
   Files: logo.jpg
 ├── motions
   Files: loading.lottie
+```
+
+---
+
+### My Perfect Job
+
+- Team: BLT
+- Leader: Ferhat Bolat (2320161082)
+- Members: 1 students
+- GitHub: https://github.com/ferhatbolat19/Q-Flutter.git
+
+#### Contributors
+
+| Username      | Full Name    | Student Number | GitHub Profile                   | Commits | Lines of Code |
+| ------------- | ------------ | -------------- | -------------------------------- | ------- | ------------- |
+| ferhatbolat19 | FERHAT BOLAT | 2320161082     | https://github.com/ferhatbolat19 | -       | -             |
+
+### Project Overview
+
+No description available
+
+#### Color Scheme
+
+| Purpose | Hex Code | Preview | Usage |
+| ------- | -------- | ------- | ----- |
+
+### Screenshots
+
+<div class="carousel">
+</div>
+
+
+### Development Progress
+
+#### Current Status: N/A (0% Complete)
+
+
+#### Todo List
+
+| Task | Description | Assigned To | Deadline | Status |
+| ---- | ----------- | ----------- | -------- | ------ |
+
+#### Flutter Project Analysis
+
+**Lib Structure:**
+
+```
+Files: main.dart
+├── core
+  Files: routes.dart, storage.dart, themes.dart
+├── screens
+  Files: job_detail_page.dart, job_home_page.dart, profile_page.dart
+├── services
+  Files: api.dart
+├── widgets
+  Files: custom_drawer.dart, job_card.dart, logo.dart, profile_header.dart, search_bar.dart
+```
+
+**Assets Structure:**
+
+```
+├── fonts
+  Files: temp.txt
+├── icons
+  Files: temp.txt
+├── images
+  Files: temp.txt
+├── languages
+  Files: temp.txt
+├── motions
+  Files: motions.txt
 ```
 
 ---
