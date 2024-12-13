@@ -261,20 +261,6 @@
 
 ---
 
-## Artify
-
-- **Team Name:** Mervision
-- **Leader:** Merve Çetin (2320161061)
-- **GitHub Repository:** https://github.com/mervecetiin/M-Flutter.git
-
-### Team Members
-
-| GitHub                                        | Student No |
-| --------------------------------------------- | ---------- |
-| [mervecetiin](https://github.com/mervecetiin) | 2320161061 |
-
----
-
 ## ColorNotes
 
 - **Team Name:** Eira
@@ -869,17 +855,17 @@
 
 ---
 
-## MeLife
+## Artify
 
-- **Team Name:** Meliketech
-- **Leader:** Melike Ersoy (2320161074)
-- **GitHub Repository:** https://github.com/melike555/Q-Flutter.git
+- **Team Name:** Mervision
+- **Leader:** Merve Çetin (2320161061)
+- **GitHub Repository:** https://github.com/mervecetiin/M-Flutter.git
 
 ### Team Members
 
 | GitHub                                        | Student No |
 | --------------------------------------------- | ---------- |
-| [Melikeersoy](https://github.com/Melikeersoy) | 2320161074 |
+| [mervecetiin](https://github.com/mervecetiin) | 2320161061 |
 
 ---
 
@@ -1121,6 +1107,136 @@
 | GitHub                                              | Student No |
 | --------------------------------------------------- | ---------- |
 | [abdulllahseker](https://github.com/abdulllahseker) | 2320161139 |
+
+---
+
+## flex_music_flutter
+
+- **Team Name:** S1
+- **Leader:** Emirhan Başer (2320161111)
+- **GitHub Repository:** https://github.com/Emirhanbaser/flex_music_flutter
+
+### Team Members
+
+| GitHub                                          | Student No |
+| ----------------------------------------------- | ---------- |
+| [Emirhanbaser](https://github.com/Emirhanbaser) | 2320161111 |
+
+---
+
+## MeLife
+
+- **Team Name:** Meliketech
+- **Leader:** Melike Ersoy (2320161074)
+- **GitHub Repository:** https://github.com/melike555/Q-Flutter.git
+
+### Team Members
+
+| GitHub                                        | Student No |
+| --------------------------------------------- | ---------- |
+| [Melikeersoy](https://github.com/Melikeersoy) | 2320161074 |
+
+---
+
+## Social-Recipes
+
+- **Team Name:** EK-27
+- **Leader:** Efe Kıratlı (2320161060)
+- **GitHub Repository:** https://github.com/EfeKtli/Social-recipe.git
+
+### Team Members
+
+| GitHub                                | Student No |
+| ------------------------------------- | ---------- |
+| [EfeKtli](https://github.com/EfeKtli) | 2320161060 |
+
+---
+
+## Gamer-Stash
+
+- **Team Name:** Mertelyev
+- **Leader:** Mert Kuruali (2320161016)
+- **GitHub Repository:** https://github.com/Mertelyev/Gamer-Stash
+
+### Team Members
+
+| GitHub                                    | Student No |
+| ----------------------------------------- | ---------- |
+| [Mertelyev](https://github.com/Mertelyev) | 2320161016 |
+
+---
+
+## Artify
+
+- **Team Name:** Grove Street
+- **Leader:** Hüseyin Arda Akşit (2320161119)
+- **GitHub Repository:** https://github.com/AksitArda/Artify/
+
+### Team Members
+
+| GitHub                                        | Student No |
+| --------------------------------------------- | ---------- |
+| [aksitarda](https://github.com/aksitarda)     | 2320161119 |
+| [efecakmakci](https://github.com/efecakmakci) | 2320161113 |
+| [ernkya](https://github.com/ernkya)           | 2320161124 |
+
+---
+
+## langmatch
+
+- **Team Name:** Şehirliler ve Cenk
+- **Leader:** Enes Başat (2320161116)
+- **GitHub Repository:** https://github.com/enesbasat0/langmatch
+
+### Team Members
+
+| GitHub                                      | Student No |
+| ------------------------------------------- | ---------- |
+| [enesbasat0](https://github.com/enesbasat0) | 2320161116 |
+| [cenkaydinn](https://github.com/cenkaydinn) | 2320161153 |
+| [oguzcavuss](https://github.com/oguzcavuss) | 2320161093 |
+
+---
+
+## weather_flutter
+
+- **Team Name:** Meteorology
+- **Leader:** Emre Tuğrul Öyken (2320161138)
+- **GitHub Repository:** https://github.com/emreoyken/Q-Flutter.git
+
+### Team Members
+
+| GitHub                                    | Student No |
+| ----------------------------------------- | ---------- |
+| [emreoyken](https://github.com/emreoyken) | 2320161138 |
+
+---
+
+## SigorTam
+
+- **Team Name:** SoloYolo
+- **Leader:** Eray Özözen (2320161104)
+- **GitHub Repository:** https://github.com/ErayOzozen/Q-Flutter
+
+### Team Members
+
+| GitHub                                      | Student No |
+| ------------------------------------------- | ---------- |
+| [ErayOzozen](https://github.com/ErayOzozen) | 2320161104 |
+
+---
+
+## MemLock
+
+- **Team Name:** One Piece
+- **Leader:** Şeyma Sakoğlu (2320161034)
+- **GitHub Repository:** https://github.com/SeymaSakoglu/MemLock_flutter.git
+
+### Team Members
+
+| GitHub                                          | Student No |
+| ----------------------------------------------- | ---------- |
+| [SeymaSakoglu](https://github.com/SeymaSakoglu) | 2320161034 |
 
 ---
 
