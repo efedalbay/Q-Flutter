@@ -15,10 +15,8 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: arkaplanRenkim, // .fromARGB(255, 35, 47, 59),
       // AppBar
       appBar: AppBar(
-        backgroundColor: Colors.white,
         title: const Text('Q'),
         actions: [
           IconButton(
@@ -30,7 +28,7 @@ class HomeScreen extends StatelessWidget {
 
       // Drawer (Yan Menü)
       drawer: Drawer(
-        backgroundColor: arkaplanRenkim,
+        backgroundColor: colors["surface"], // .fromARGB(255, 35, 47, 59),
         elevation: 0,
         child: Column(
           children: [
@@ -105,6 +103,72 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
           ),
+          Expanded(
+            child: ListView(
+              children: [
+                Text(
+                  "bodySmall Text",
+                  style: Theme.of(context).textTheme.bodySmall,
+                ),
+                Text(
+                  "bodyMedium Text",
+                  style: Theme.of(context).textTheme.bodyMedium,
+                ),
+                Text(
+                  "bodyMedium Text",
+                  style: Theme.of(context).textTheme.bodyLarge,
+                ),
+                Text(
+                  "displaySmall Text",
+                  style: Theme.of(context).textTheme.displaySmall,
+                ),
+                Text(
+                  "displayMedium Text",
+                  style: Theme.of(context).textTheme.displayMedium,
+                ),
+                Text(
+                  "displayLarge Text",
+                  style: Theme.of(context).textTheme.displayLarge,
+                ),
+                Text(
+                  "headlineSmall Text",
+                  style: Theme.of(context).textTheme.headlineSmall,
+                ),
+                Text(
+                  "headlineMedium Text",
+                  style: Theme.of(context).textTheme.headlineMedium,
+                ),
+                Text(
+                  "headlineLarge Text",
+                  style: Theme.of(context).textTheme.headlineLarge,
+                ),
+                Text(
+                  "titleSmall Text",
+                  style: Theme.of(context).textTheme.titleSmall,
+                ),
+                Text(
+                  "titleMedium Text",
+                  style: Theme.of(context).textTheme.titleMedium,
+                ),
+                Text(
+                  "titleLarge Text",
+                  style: Theme.of(context).textTheme.titleLarge,
+                ),
+                Text(
+                  "labelSmall Text",
+                  style: Theme.of(context).textTheme.labelSmall,
+                ),
+                Text(
+                  "labelMedium Text",
+                  style: Theme.of(context).textTheme.labelMedium,
+                ),
+                Text(
+                  "labelLarge Text",
+                  style: Theme.of(context).textTheme.labelLarge,
+                ),
+              ],
+            ),
+          )
         ],
       ),
 

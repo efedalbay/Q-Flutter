@@ -13,7 +13,6 @@ class LoadingScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: arkaplanRenkim, // .fromARGB(255, 35, 47, 59),
       body: SizedBox.expand(
         // width: double.infinity,
         child: Column(

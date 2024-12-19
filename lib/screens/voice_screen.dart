@@ -9,8 +9,6 @@ class VoiceScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: arkaplanRenkim, // .fromARGB(255, 35, 47, 59),
-
       body: Center(
         child: Text("ses ekranim"),
       ),
