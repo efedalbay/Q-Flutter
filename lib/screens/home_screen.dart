@@ -28,7 +28,6 @@ class HomeScreen extends StatelessWidget {
 
       // Drawer (Yan Menü)
       drawer: Drawer(
-        backgroundColor: colors["surface"], // .fromARGB(255, 35, 47, 59),
         elevation: 0,
         child: Column(
           children: [
@@ -86,6 +85,7 @@ class HomeScreen extends StatelessWidget {
       body: Column(
         children: [
           Expanded(
+            flex: 1,
             child: Container(
               padding: const EdgeInsets.all(16),
               child: SizedBox(
@@ -104,6 +104,7 @@ class HomeScreen extends StatelessWidget {
             ),
           ),
           Expanded(
+            flex: 3,
             child: ListView(
               children: [
                 Text(
