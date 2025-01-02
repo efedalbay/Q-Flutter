@@ -5,8 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:go_router/go_router.dart';
 import 'package:lottie/lottie.dart';
+import 'package:provider/provider.dart';
 
 import '../core/constants.dart';
+import '../core/themes.dart';
 import '../widgets/bottom_menu.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -21,7 +23,9 @@ class HomeScreen extends StatelessWidget {
         actions: [
           IconButton(
             icon: const Icon(CupertinoIcons.app),
-            onPressed: () {},
+            onPressed: () {
+              context.read<ThemeProvider>().toggleTheme();
+            },
           ),
         ],
       ),

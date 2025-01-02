@@ -1,7 +1,10 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:provider/provider.dart';
 
 import '../core/constants.dart';
+import '../core/themes.dart';
 import '../widgets/bottom_menu.dart';
 
 class ProfileScreen extends StatelessWidget {
@@ -32,6 +35,12 @@ class ProfileScreen extends StatelessWidget {
           ElevatedButton(
             onPressed: () {},
             child: Text("Hesaptan Cikis Yap"),
+          ),
+          IconButton(
+            icon: const Icon(CupertinoIcons.moon),
+            onPressed: () {
+              context.read<ThemeProvider>().toggleTheme();
+            },
           ),
         ],
       ),
