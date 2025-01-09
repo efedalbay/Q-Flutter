@@ -9,23 +9,8 @@ class VoiceScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: ListView(
-        children: [
-          const Text("Sayfalar Arasi Gecis"),
-          ElevatedButton(
-            onPressed: () {
-              context.go("/login");
-            },
-            child: const Text("Giris Yapiniz | go"),
-          ),
-          const Divider(),
-          ElevatedButton(
-            onPressed: () {
-              context.push("/login");
-            },
-            child: const Text("Giris Yapiniz | push"),
-          ),
-        ],
+      body: Center(
+        child: Text("ses ekranim"),
       ),
       bottomNavigationBar: const BottomMenu(),
     );
