@@ -1,75 +1,117 @@
 import 'package:flutter/material.dart';
 
 import '../core/constants.dart';
+import '../core/themes.dart';
 import '../widgets/bottom_menu.dart';
 
 class SearchScreen extends StatelessWidget {
   const SearchScreen({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: ListView(
-        children: [
-          Text(
-            "Body Small Yazisi",
-            style: Theme.of(context).textTheme.bodySmall,
+      // backgroundColor: colors["primary"],
+      body: CustomScrollView(
+        slivers: [
+          SliverAppBar(
+            floating: true,
+            snap: true,
+            title: TextField(
+              decoration: InputDecoration(
+                hintText: "Ara...",
+                filled: true,
+                fillColor: Theme.of(context).colorScheme.surfaceVariant,
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(50),
+                  borderSide: BorderSide.none,
+                ),
+                prefixIcon: Icon(Icons.search),
+                suffixIcon: IconButton(
+                  icon: Icon(Icons.tune),
+                  onPressed: () {
+                    // Filtre dialog
+                  },
+                ),
+              ),
+            ),
           ),
-          Text(
-            "Body Medium Yazisi",
-            style: Theme.of(context).textTheme.bodyMedium,
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: EdgeInsets.all(16),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    "Son Aramalar",
+                    style: Theme.of(context).textTheme.titleMedium,
+                  ),
+                  SizedBox(height: 8),
+                  Wrap(
+                    spacing: 8,
+                    children: [
+                      ActionChip(
+                        label: Text("Flutter"),
+                        onPressed: () {},
+                        avatar: Icon(Icons.history, size: 16),
+                      ),
+                      ActionChip(
+                        label: Text("Dart"),
+                        onPressed: () {},
+                        avatar: Icon(Icons.history, size: 16),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
           ),
-          Text(
-            "Body Large Yazisi",
-            style: Theme.of(context).textTheme.bodyLarge,
-          ),
-          Text(
-            "Label Small Yazisi",
-            style: Theme.of(context).textTheme.labelSmall,
-          ),
-          Text(
-            "Label Medium Yazisi",
-            style: Theme.of(context).textTheme.labelMedium,
-          ),
-          Text(
-            "Label Large Yazisi",
-            style: Theme.of(context).textTheme.labelLarge,
-          ),
-          Text(
-            "Title Small Yazisi",
-            style: Theme.of(context).textTheme.titleSmall,
-          ),
-          Text(
-            "Title Medium Yazisi",
-            style: Theme.of(context).textTheme.titleMedium,
-          ),
-          Text(
-            "Title Large Yazisi",
-            style: Theme.of(context).textTheme.titleLarge,
-          ),
-          Text(
-            "Headline Small Yazisi",
-            style: Theme.of(context).textTheme.headlineSmall,
-          ),
-          Text(
-            "Headline Medium Yazisi",
-            style: Theme.of(context).textTheme.headlineMedium,
-          ),
-          Text(
-            "Headline Large Yazisi",
-            style: Theme.of(context).textTheme.headlineLarge,
-          ),
-          Text(
-            "Display Small Yazisi",
-            style: Theme.of(context).textTheme.displaySmall,
-          ),
-          Text(
-            "Display Medium Yazisi",
-            style: Theme.of(context).textTheme.displayMedium,
-          ),
-          Text(
-            "Display Large Yazisi",
-            style: Theme.of(context).textTheme.displayLarge,
+          SliverPadding(
+            padding: EdgeInsets.all(16),
+            sliver: SliverGrid(
+              gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                crossAxisCount: 2,
+                mainAxisSpacing: 16,
+                crossAxisSpacing: 16,
+                childAspectRatio: 0.85,
+              ),
+              delegate: SliverChildBuilderDelegate(
+                (context, index) => Card(
+                  clipBehavior: Clip.antiAlias,
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      AspectRatio(
+                        aspectRatio: 16 / 9,
+                        child: Container(
+                          color:
+                              Theme.of(context).colorScheme.secondaryContainer,
+                        ),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(8),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              "Başlık ${index + 1}",
+                              style: Theme.of(context).textTheme.titleMedium,
+                              maxLines: 1,
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                            Text(
+                              "Alt başlık açıklama yazısı burada yer alır",
+                              style: Theme.of(context).textTheme.bodySmall,
+                              maxLines: 2,
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                childCount: 10,
+              ),
+            ),
           ),
         ],
       ),
